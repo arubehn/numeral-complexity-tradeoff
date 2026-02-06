@@ -1,0 +1,530 @@
+﻿ID,Language_ID,Parameter_ID,Form,InterRater_Segments,Segments,reliability_binary
+Acehnese-seventyseven-1,Acehnese,seventyseven,tuɟoh ploh tuɟoh,t u ɟ o h + p l o h + t u ɟ o h,t u ɟ o h + p l o h + t u ɟ o h,1
+Acehnese-thirtyfour-1,Acehnese,thirtyfour,lhɛə ploh pɯət,l h ɛ ə + p l o h + p ɯ ə t,l h ɛ ə + p l o h + p ɯ ə t,1
+Acehnese-thirty-1,Acehnese,thirty,lhɛə ploh ,l h ɛ ə + p l o h,l h ɛ ə + p l o h,1
+Acehnese-sixtysix-1,Acehnese,sixtysix,nam ploh nam,n a m + p l o h + n a m,n a m + p l o h + n a m,1
+Acehnese-fortysix-1,Acehnese,fortysix,pɯət ploh nam,p ɯ ə t + p l o h + n a m,p ɯ ə t + p l o h + n a m,1
+Acehnese-twentyeight-1,Acehnese,twentyeight,duwa ploh lapan,d u w a + p l o h + l a p a n,d u w a + p l o h + l a p a n,1
+Acehnese-thirtythree-1,Acehnese,thirtythree,lhɛə ploh lhɛə,l h ɛ ə + p l o h + l h ɛ ə,l h ɛ ə + p l o h + l h ɛ ə,1
+Amharic-ninetyone-1,Amharic,ninetyone,zətʼenaand,z ə tʼ e n + a + a n d,z ə tʼ e n + a + a n d,1
+Amharic-eighteen-1,Amharic,eighteen,asrasɨmmɨnt,a s r a + s ɨ m m ɨ n t,a s r + a + s ɨ m m ɨ n t,0
+Amharic-sixtyfive-1,Amharic,sixtyfive,sɨlsaammɨst,s ɨ l s a + a m m ɨ s t,s ɨ l s + a + a m m ɨ s t,0
+Amharic-seven-1,Amharic,seven,səbatt,s ə b a t t,s ə b a t t,1
+Amharic-six-1,Amharic,six,səddəst,s ɨ d d ɨ s t,s ɨ d d ɨ s t,1
+Amharic-eightysix-1,Amharic,eightysix,səmaɲasəddəst,s ə m a ɲ a + s ɨ d d ɨ s t,s ə m a ɲ + a + s ɨ d d ɨ s t,0
+Amharic-sixty-1,Amharic,sixty,sɨlsa,s ɨ l s a,s ɨ l s + a,0
+Amharic-fortyone-1,Amharic,fortyone,arbaand,a r b a + a n d,a r b + a + a n d,0
+Amharic-fifteen-2,Amharic,fifteen,asrammɨst,a s r a + m m ɨ s t,a s r + a + m m ɨ s t,0
+Amharic-thirtyone-2,Amharic,thirtyone,səlasaandit,s ə l a s a + a n d + i t,s ə l a s + a + a n d + i t,0
+Amharic-eleven-1,Amharic,eleven,asraand,a s r a + a n d,a s r + a + a n d,0
+Aymara-fortyone-1,Aymara,fortyone,pusi tunka majani,p u s i + t u n k a + m a j a + n i,p u s i + t u n k a + m a j a + n i,1
+Aymara-three-1,Aymara,three,kimsa,k i m s a,k i m s a,1
+Aymara-ninetyone-1,Aymara,ninetyone,ʎaːtunka tunka majani,ʎ aː t u n k a + t u n k a + m a j a + n i,ʎ aː t u n k a + t u n k a + m a j a + n i,1
+Aymara-sixty-1,Aymara,sixty,suχta tunka,s u χ t a + t u n k a,s u χ t a + t u n k a,1
+Aymara-fortyfive-1,Aymara,fortyfive,pusi tunka pʰisqani,p u s i + t u n k a + pʰ i s q a + n i,p u s i + t u n k a + pʰ i s q a + n i,1
+Aymara-fiftysix-1,Aymara,fiftysix,pʰisqa tunka suχtani,pʰ i s q a + t u n k a + s u χ t a + n i,pʰ i s q a + t u n k a + s u χ t a + n i,1
+Aymara-twentythree-1,Aymara,twentythree,paː tunka kimsani,p aː + t u n k a + k i m s a + n i,p aː + t u n k a + k i m s a + n i,1
+Aymara-twentyeight-1,Aymara,twentyeight,paː tunka kimsaqaʎquni,p aː + t u n k a + k i m s a q a ʎ q u + n i,p aː + t u n k a + k i m s a q a ʎ q u + n i,1
+Aymara-eighty-1,Aymara,eighty,kimsaqaʎqu tunka,k i m s a q a ʎ q u + t u n k a,k i m s a q a ʎ q u + t u n k a,1
+Aymara-thirtysix-1,Aymara,thirtysix,kimsa tunka suχtani,k i m s a + t u n k a + s u χ t a + n i,k i m s a + t u n k a + s u χ t a + n i,1
+Aymara-thirtytwo-1,Aymara,thirtytwo,kimsa tunka pajani,k i m s a + t u n k a + p a j a + n i,k i m s a + t u n k a + p a j a + n i,1
+Balochi-twentyfour-1,Balochi,twentyfour,bist w čar,b i s t + ʊ + ʧ a r,b i s t + ʊ + ʧ a r,1
+Balochi-fortytwo-1,Balochi,fortytwo,čyll w dw,ʧ ɪ l l + ʊ + d ʊ,ʧ ɪ l l + ʊ + d ʊ,1
+Balochi-eightythree-1,Balochi,eightythree,[h]əštad w səy,ə ʃ t a d + ʊ + s ə j,ə ʃ t a d + ʊ + s ə j,1
+Balochi-seventeen-1,Balochi,seventeen,[h]əbdə[g],ə b + d ə,ə b + d ə,1
+Balochi-sixtytwo-1,Balochi,sixtytwo,šəst w dw,ʃ ə s t + ʊ + d ʊ,ʃ ə s t + ʊ + d ʊ,1
+Balochi-ten-1,Balochi,ten,də,d ə,d ə,1
+Balochi-sixtyfive-1,Balochi,sixtyfive,šəst w pənč,ʃ ə s t + ʊ + p ə n ʧ,ʃ ə s t + ʊ + p ə n ʧ,1
+Balochi-twentythree-1,Balochi,twentythree,bist w səy,b i s t + ʊ + s ə j,b i s t + ʊ + s ə j,1
+Balochi-fifteen-1,Balochi,fifteen,pãzdə[g],p ã z + d ə,p ã z + d ə,1
+Balochi-seventynine-1,Balochi,seventynine,[h]əptad w nw,ə p t a d + ʊ + n ʊ,ə p t a d + ʊ + n ʊ,1
+Balochi-ninetysix-1,Balochi,ninetysix,nəvəd w šəšš,n ə v ə d + ʊ + ʃ ə ʃ ʃ,n ə v ə d + ʊ + ʃ ə ʃ ʃ,1
+Balochi-twentyeight-1,Balochi,twentyeight,bist w [h]əšt,b i s t + ʊ + ə ʃ t,b i s t + ʊ + ə ʃ t,1
+Balochi-eightyfive-1,Balochi,eightyfive,[h]əštad w pənč,ə ʃ t a d + ʊ + p ə n ʧ,ə ʃ t a d + ʊ + p ə n ʧ,1
+Barwar_Neo-Aramaic-thirtyeight-1,Barwar_Neo-Aramaic,thirtyeight,ṭḷáθi-w-tmánya,tˤ lˤ a θ + i + w + t m a n j a,tˤ lˤ a θ + i + w + t m a n j a,1
+Barwar_Neo-Aramaic-twentyfive-1,Barwar_Neo-Aramaic,twentyfive,’ǝ́sri-w-xámša,ʔ ǝ s r + i + w + x a m ʃ a,ʔ ǝ s r + i + w + x a m ʃ a,1
+Barwar_Neo-Aramaic-nine-2,Barwar_Neo-Aramaic,nine,’ǝčča,ʔ ǝ ʧː a,ʔ ǝ ʧː a,1
+Barwar_Neo-Aramaic-eighty-1,Barwar_Neo-Aramaic,eighty,tmáni,t m a n + i,t m a n + i,1
+Barwar_Neo-Aramaic-fortysix-1,Barwar_Neo-Aramaic,fortysix,’árbi-w-’ǝ́šta,ʔ a r b + i + w + ʔ ǝ ʃ t a,ʔ a r b + i + w + ʔ ǝ ʃ t a,1
+Barwar_Neo-Aramaic-fortyfour-1,Barwar_Neo-Aramaic,fortyfour,’árbi-w-’árba,ʔ a r b + i + w + ʔ a r b a,ʔ a r b + i + w + ʔ a r b a,1
+Barwar_Neo-Aramaic-two-2,Barwar_Neo-Aramaic,two,tǝrte,t ǝ r t e,t ǝ r t e,1
+Barwar_Neo-Aramaic-nineteen-1,Barwar_Neo-Aramaic,nineteen,’ǝč̣č̣ássǝr,ʔ ǝ ʧˤː + a sː ǝ r,ʔ ǝ ʧˤː + a sː ǝ r,1
+Barwar_Neo-Aramaic-forty-1,Barwar_Neo-Aramaic,forty,’árbi,ʔ a r b + i,ʔ a r b + i,1
+Barwar_Neo-Aramaic-thirtyseven-1,Barwar_Neo-Aramaic,thirtyseven,ṭḷáθi-w-šáwwa,tˤ lˤ a θ + i + w + ʃ a wː a,tˤ lˤ a θ + i + w + ʃ a wː a,1
+Barwar_Neo-Aramaic-thirtyone-1,Barwar_Neo-Aramaic,thirtyone,ṭḷáθi-w-xa,tˤ lˤ a θ + i + w + x a,tˤ lˤ a θ + i + w + x a,1
+Barwar_Neo-Aramaic-five-1,Barwar_Neo-Aramaic,five,xámša,x a m ʃ a,x a m ʃ a,1
+Barwar_Neo-Aramaic-seventynine-1,Barwar_Neo-Aramaic,seventynine,šáwwi-w-’ǝč̣č̣a,ʃ a wː + i + w + ʔ ǝ ʧˤː a,ʃ a wː + i + w + ʔ ǝ ʧˤː a,1
+Burmese-ninety-1,Burmese,ninety,kózɛ́,k ó + z ɛ́,k ó + z ɛ́,1
+Burmese-seven-1,Burmese,seven,kʰʊ̀ɰ̃n̥ɪʔ,kʰ ʊ̀ɰ̃ n̥ ɪ ʔ,kʰ ʊ̀ɰ̃ n̥ ɪ ʔ,1
+Burmese-ninetyseven-1,Burmese,ninetyseven,kózɛ̰kʰʊ̀ɰ̃n̥ɪʔ,k ó + z ɛ̰ + kʰ ʊ̀ɰ̃ n̥ ɪ ʔ,k ó + z ɛ̰ + kʰ ʊ̀ɰ̃ n̥ ɪ ʔ,1
+Burmese-eightyeight-1,Burmese,eightyeight,ʃɪʔsʰɛ̰ʃɪʔ,ʃ ɪ ʔ + sʰ ɛ̰ + ʃ ɪ ʔ,ʃ ɪ ʔ + sʰ ɛ̰ + ʃ ɪ ʔ,1
+Burmese-seventyfive-1,Burmese,seventyfive,kʰʊ̀ɰ̃n̥əsʰɛ̰ŋá,kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + ŋ á,kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + ŋ á,1
+Burmese-seventyone-1,Burmese,seventyone,kʰʊ̀ɰ̃n̥əsʰɛ̰tɪʔ,kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + t ɪ ʔ,kʰ ʊ̀ɰ̃ n̥ ə + sʰ ɛ̰ + t ɪ ʔ,1
+Burmese-eighteen-1,Burmese,eighteen,sʰɛ̰ʃɪʔ,sʰ ɛ̰ + ʃ ɪ ʔ,sʰ ɛ̰ + ʃ ɪ ʔ,1
+Burmese-fortyeight-1,Burmese,fortyeight,lézɛ̰ʃɪʔ,l é + z ɛ̰ + ʃ ɪ ʔ,l é + z ɛ̰ + ʃ ɪ ʔ,1
+Burmese-fiftyeight-1,Burmese,fiftyeight,ŋázɛ̰ʃɪʔ,ŋ á + z ɛ̰ + ʃ ɪ ʔ,ŋ á + z ɛ̰ + ʃ ɪ ʔ,1
+Cavinena-eighteen-1,Cavinena,eighteen,peaɟa tʊŋka kimisakarʊkʊ earakana,p e a ɟ a + t ʊ ŋ k a + k i m i s a k a r ʊ k ʊ + e a r a k a n a,p e a ɟ a + t ʊ ŋ k a + k i m i s a k a r ʊ k ʊ + e a r a k a n a,1
+Cavinena-fiftythree-1,Cavinena,fiftythree,piɕika tʊŋka kimiɕa earakana,p i ɕ i k a + t ʊ ŋ k a + k i m i ɕ a + e a r a k a n a,p i ɕ i k a + t ʊ ŋ k a + k i m i ɕ a + e a r a k a n a,1
+Cavinena-twentyseven-1,Cavinena,twentyseven,beta tʊŋka pakarʊkʊ earakana,b e t a + t ʊ ŋ k a + p a k a r ʊ k ʊ + e a r a k a n a,b e t a + t ʊ ŋ k a + p a k a r ʊ k ʊ + e a r a k a n a,1
+Cavinena-eightyfive-1,Cavinena,eightyfive,kimisakarʊkʊ tʊŋka piɕika earakana,k i m i s a k a r ʊ k ʊ + t ʊ ŋ k a + p i ɕ i k a + e a r a k a n a,k i m i s a k a r ʊ k ʊ + t ʊ ŋ k a + p i ɕ i k a + e a r a k a n a,1
+Cavinena-fortytwo-1,Cavinena,fortytwo,pʊɕi tʊŋka beta earakana,p ʊ ɕ i + t ʊ ŋ k a + b e t a + e a r a k a n a,p ʊ ɕ i + t ʊ ŋ k a + b e t a + e a r a k a n a,1
+Cavinena-twenty-1,Cavinena,twenty,beta tʊŋka,b e t a + t ʊ ŋ k a,b e t a + t ʊ ŋ k a,1
+Cavinena-thirty-1,Cavinena,thirty,kimiɕa tʊŋka,k i m i ɕ a + t ʊ ŋ k a,k i m i ɕ a + t ʊ ŋ k a,1
+Cavinena-eightythree-1,Cavinena,eightythree,kimisakarʊkʊ tʊŋka kimiɕa earakana,k i m i s a k a r ʊ k ʊ + t ʊ ŋ k a + k i m i ɕ a + e a r a k a n a,k i m i s a k a r ʊ k ʊ + t ʊ ŋ k a + k i m i ɕ a + e a r a k a n a,1
+Cavinena-twentytwo-1,Cavinena,twentytwo,beta tʊŋka beta earakana,b e t a + t ʊ ŋ k a + b e t a + e a r a k a n a,b e t a + t ʊ ŋ k a + b e t a + e a r a k a n a,1
+Cavinena-eightyseven-1,Cavinena,eightyseven,kimisakarʊkʊ tʊŋka pakarʊkʊ earakana,k i m i s a k a r ʊ k ʊ + t ʊ ŋ k a + p a k a r ʊ k ʊ + e a r a k a n a,k i m i s a k a r ʊ k ʊ + t ʊ ŋ k a + p a k a r ʊ k ʊ + e a r a k a n a,1
+Cavinena-twentythree-1,Cavinena,twentythree,beta tʊŋka kimiɕa earakana,b e t a + t ʊ ŋ k a + k i m i ɕ a + e a r a k a n a,b e t a + t ʊ ŋ k a + k i m i ɕ a + e a r a k a n a,1
+Cavinena-seventy-1,Cavinena,seventy,pakarʊkʊ tʊŋka,p a k a r ʊ k ʊ + t ʊ ŋ k a,p a k a r ʊ k ʊ + t ʊ ŋ k a,1
+Cheyenne-fiftynine-1,Cheyenne,fiftynine,nóhónó'e hóhta sóohto,n ó h ó + n ó ʔ è + h ó h t a + s óː h t ò,n ó h ó + n ó ʔ è + h ó h t a + s óː h t ò,1
+Cheyenne-ten-1,Cheyenne,ten,mȧhtohto,m ḁ t ò h t ò,m ḁ t ò h t ò,1
+Cheyenne-eight-1,Cheyenne,eight,na'nohto,n à ʔ n ò h t ò,n à ʔ n ò h t ò,1
+Cheyenne-sixtyfour-1,Cheyenne,sixtyfour,naesóhtȯhnó'e hóhta neve,n àː s ó h t o̥ + n ó ʔ è + h ó h t a + n è v è,n àː s ó h t o̥ + n ó ʔ è + h ó h t a + n è v è,1
+Cheyenne-fiftythree-1,Cheyenne,fiftythree,nóhónó'e hóhta na'he,n ó h ó + n ó ʔ è + h ó h t a + n à ʔ h è,n ó h ó + n ó ʔ è + h ó h t a + n à ʔ h è,1
+Cheyenne-eightysix-1,Cheyenne,eightysix,na'nóhtȯhnó'e hóhta naesohto,n à ʔ n ó h t o̥ + n ó ʔ è + h ó h t a + n àː s ò h t ò,n à ʔ n ó h t o̥ + n ó ʔ è + h ó h t a + n àː s ò h t ò,1
+Cheyenne-nine-1,Cheyenne,nine,sóohto,s óː h t ò,s óː h t ò,1
+Cheyenne-seven-1,Cheyenne,seven,nésohto,n é s ò h t ò,n é s ò h t ò,1
+Cheyenne-fiftyone-1,Cheyenne,fiftyone,nóhónó'e hóhta na'ėstse,n ó h ó + n ó ʔ è + h ó h t a + n à ʔ e̥ s ts è,n ó h ó + n ó ʔ è + h ó h t a + n à ʔ e̥ s ts è,1
+Cheyenne-seventyeight-1,Cheyenne,seventyeight,nésȯhtȯhnó'e hóhta na'nohto,n é s o̥ t o̥ + n ó ʔ è + h ó h t a + n à ʔ n ò h t ò,n é s o̥ t o̥ + n ó ʔ è + h ó h t a + n à ʔ n ò h t ò,1
+Cheyenne-twentythree-1,Cheyenne,twentythree,nésó'e hóhta na'he,n é s + ó ʔ è + h ó h t a + n à ʔ h è,n é s + ó ʔ è + h ó h t a + n à ʔ h è,1
+Cheyenne-twelve-2,Cheyenne,twelve,hóhta neše,h ó h t a + n è ʃ è,h ó h t a + n è ʃ è,1
+Cheyenne-seventyone-1,Cheyenne,seventyone,nésȯhtȯhnó'e hóhta na'ėstse,n é s o̥ t o̥ + n ó ʔ è + h ó h t a + n à ʔ e̥ s ts è,n é s o̥ t o̥ + n ó ʔ è + h ó h t a + n à ʔ e̥ s ts è,1
+Chiquitano-fiftytwo-1,Chiquitano,fiftytwo,matuto,m a + t u + t o,m a + t u + t o,1
+Chiquitano-twenty-1,Chiquitano,twenty,totu,t o + t u,t o + t u,1
+Chiquitano-sixtyseven-1,Chiquitano,sixtyseven,patukɨ,p a + t u + k ɨ,p a + t u + k ɨ,1
+Chiquitano-two-1,Chiquitano,two,to,t o,t o,1
+Chiquitano-sixteen-1,Chiquitano,sixteen,tupa,t u + p a,t u + p a,1
+Chiquitano-fiftythree-1,Chiquitano,fiftythree,matune,m a + t u + n e,m a + t u + n e,1
+Chiquitano-sixty-1,Chiquitano,sixty,patu,p a + t u,p a + t u,1
+Chiquitano-three-1,Chiquitano,three,ne,n e,n e,1
+Chiquitano-sixtynine-1,Chiquitano,sixtynine,patuku,p a + t u + k u,p a + t u + k u,1
+Chiquitano-ten-1,Chiquitano,ten,tu,t u,t u,1
+Chiquitano-one-2,Chiquitano,one,taman,t a m a n,t a m a n,1
+Chiquitano-seventeen-1,Chiquitano,seventeen,tukɨ,t u + k ɨ,t u + k ɨ,1
+Chiquitano-thirtyfour-1,Chiquitano,thirtyfour,netunu,n e + t u + n u,n e + t u + n u,1
+Chiquitano-fiftyfive-1,Chiquitano,fiftyfive,matuma,m a + t u + m a,m a + t u + m a,1
+Classical_Syriac-ninetyfive-1,Classical_Syriac,ninetyfive,teʃʕinwħamʃaː,t e ʃ ʕ + i n + w + ħ a m ʃ aː,t e ʃ ʕ + i n + w + ħ a m ʃ + aː,0
+Classical_Syriac-seventyone-1,Classical_Syriac,seventyone,ʃavʕinwħað,ʃ a v ʕ + i n + w + ħ a ð,ʃ a v ʕ + i n + w + ħ a ð,1
+Classical_Syriac-fiftyfour-2,Classical_Syriac,fiftyfour,ħamʃinwʔarbaʕ,ħ a m ʃ + i n + w + ʔ a r b a ʕ,ħ a m ʃ + i n + w + ʔ a r b a ʕ,1
+Classical_Syriac-ten-2,Classical_Syriac,ten,ʕsar,ʕ s a r,ʕ s a r,1
+Classical_Syriac-fiftyseven-2,Classical_Syriac,fiftyseven,ħamʃinwaʃvaʕ,ħ a m ʃ + i n + w a + ʃ v a ʕ,ħ a m ʃ + i n + w a + ʃ v a ʕ,1
+Classical_Syriac-seventyeight-1,Classical_Syriac,seventyeight,ʃavʕinwaθmaːnjaː,ʃ a v ʕ + i n + w a + θ m aː n j aː,ʃ a v ʕ + i n + w a + θ m aː n j + aː,0
+Classical_Syriac-sixtythree-4,Classical_Syriac,sixtythree,ʃtinwaθlaːθ,ʃ t + i n + w a + θ l aː θ,ʃ t + i n + w a + θ l aː θ,1
+Classical_Syriac-thirtytwo-2,Classical_Syriac,thirtytwo,tlaːθinwtarten,t l aː θ + i n + w + t a r t e n,t l aː θ + i n + w + t a r + t + e n,0
+Classical_Syriac-twelve-1,Classical_Syriac,twelve,treʕsar,t r + e + ʕ s a r,t r + e + ʕ s a r,1
+Classical_Syriac-twentyseven-2,Classical_Syriac,twentyseven,ʕesrinwaʃvaʕ,ʕ e s r + i n + w a + ʃ v a ʕ,ʕ e s r + i n + w a + ʃ v a ʕ,1
+Classical_Syriac-seventyfive-1,Classical_Syriac,seventyfive,ʃavʕinwħamʃaː,ʃ a v ʕ + i n + w + ħ a m ʃ aː,ʃ a v ʕ + i n + w + ħ a m ʃ + aː,0
+Classical_Syriac-sixtyfive-4,Classical_Syriac,sixtyfive,ʃtinwħameʃ,ʃ t + i n + w + ħ a m e ʃ,ʃ t + i n + w + ħ a m e ʃ,1
+Classical_Syriac-twentyfour-1,Classical_Syriac,twentyfour,ʕesrinwʔarbʕaː,ʕ e s r + i n + w + ʔ a r b ʕ aː,ʕ e s r + i n + w + ʔ a r b ʕ + aː,0
+Classical_Syriac-eightythree-2,Classical_Syriac,eightythree,tmaːninwaθlaːθ,t m aː n + i n + w a + θ l aː θ,t m aː n + i n + w a + θ l aː θ,1
+Classical_Syriac-eight-2,Classical_Syriac,eight,tmaːne,t m aː n e,t m aː n e,1
+Classical_Syriac-fourteen-2,Classical_Syriac,fourteen,ʔarbaʕesre,ʔ a r b a + ʕ e s r e,ʔ a r b a + ʕ e s r + e,0
+Classical_Syriac-nineteen-2,Classical_Syriac,nineteen,tʃaʕesre,t ʃ a + ʕ e s r e,t ʃ a + ʕ e s r + e,0
+Classical_Syriac-sixtysix-1,Classical_Syriac,sixtysix,ʔeʃtinwaʃtaː,ʔ e ʃ t + i n + w a + ʃ t aː,ʔ e ʃ t + i n + w a + ʃ t + aː,0
+Classical_Syriac-fiftyfive-2,Classical_Syriac,fiftyfive,ħamʃinwħameʃ,ħ a m ʃ + i n + w + ħ a m e ʃ,ħ a m ʃ + i n + w + ħ a m e ʃ,1
+Classical_Syriac-fortynine-2,Classical_Syriac,fortynine,ʔarbʕinwaθʃaʕ,ʔ a r b ʕ + i n + w a + θ ʃ a ʕ,ʔ a r b ʕ + i n + w a + θ ʃ a ʕ,1
+Classical_Syriac-sixtyfour-1,Classical_Syriac,sixtyfour,ʔeʃtinwʔarbʕaː,ʔ e ʃ t + i n + w + ʔ a r b ʕ aː,ʔ e ʃ t + i n + w + ʔ a r b ʕ + aː,0
+Classical_Syriac-seventytwo-1,Classical_Syriac,seventytwo,ʃavʕinwaθren,ʃ a v ʕ + i n + w a + θ r e n,ʃ a v ʕ + i n + w a + θ r + e n,0
+Classical_Syriac-ninetyeight-2,Classical_Syriac,ninetyeight,teʃʕinwaθmaːne,t e ʃ ʕ + i n + w a + θ m aː n e,t e ʃ ʕ + i n + w a + θ m aː n e,1
+Classical_Syriac-ninetytwo-1,Classical_Syriac,ninetytwo,teʃʕinwaθren,t e ʃ ʕ + i n + w a + θ r e n,t e ʃ ʕ + i n + w a + θ r + e n,0
+Classical_Syriac-ninetyfive-2,Classical_Syriac,ninetyfive,teʃʕinwħameʃ,t e ʃ ʕ + i n + w + ħ a m e ʃ,t e ʃ ʕ + i n + w + ħ a m e ʃ,1
+Classical_Syriac-fifty-1,Classical_Syriac,fifty,ħamʃin,ħ a m ʃ + i n,ħ a m ʃ + i n,1
+Czech-thirtyseven-1,Czech,thirtyseven,tr̝ɪtsɛt sɛdm,t r̝ ɪ + ts ɛ t + s ɛ d m,t r̝ ɪ + ts ɛ t + s ɛ d m,1
+Czech-eightyseven-1,Czech,eightyseven,osmdɛsaːt sɛdm,o s m + d ɛ s aː t + s ɛ d m,o s m + d ɛ s aː t + s ɛ d m,1
+Czech-twenty-1,Czech,twenty,dvatsɛt,d v a + ts ɛ t,d v a + ts ɛ t,1
+Czech-twentyfour-1,Czech,twentyfour,dvatsɛt tʃtɪr̝ɪ,d v a + ts ɛ t + tʃ t ɪ r̝ ɪ,d v a + ts ɛ t + tʃ t ɪ r̝ ɪ,1
+Czech-twentytwo-1,Czech,twentytwo,dvatsɛt dva,d v a + ts ɛ t + d v a,d v a + ts ɛ t + d v a,1
+Czech-twentyseven-1,Czech,twentyseven,dvatsɛt sɛdm,d v a + ts ɛ t + s ɛ d m,d v a + ts ɛ t + s ɛ d m,1
+Czech-fourteen-1,Czech,fourteen,tʃtrnaːtst,tʃ t r + n aː ts t,tʃ t r + n aː ts t,1
+Czech-sixtyone-1,Czech,sixtyone,ʃɛdɛsaːt jɛdna,ʃ ɛ + d ɛ s aː t + j ɛ d n a,ʃ ɛ + d ɛ s aː t + j ɛ d n a,1
+Czech-seventythree-1,Czech,seventythree,sɛdmdɛsaːt tr̝ɪ,s ɛ d m + d ɛ s aː t + t r̝ ɪ,s ɛ d m + d ɛ s aː t + t r̝ ɪ,1
+Dhivehi-fiftyfive-1,Dhivehi,fiftyfive,fansavanna,f a n s a + ʋ a n n a,f a n s a + ʋ a n n a,1
+Dhivehi-eightyone-1,Dhivehi,eightyone,ekāhi,e k + aː h i,e k + aː h i,1
+Dhivehi-eight-1,Dhivehi,eight,aṣ̊,a ʂ̊,a ʂ̊,1
+Dhivehi-thirtyeight-1,Dhivehi,thirtyeight,aṣutirīs,a ʂ u + t i r iː s,a ʂ u + t i r iː s,1
+Dhivehi-sixtythree-1,Dhivehi,sixtythree,tēhaṭṭi,t eː + h a ʈ ʈ i,t eː + h a ʈ ʈ i,1
+Dhivehi-fiftytwo-1,Dhivehi,fiftytwo,bāvanna,b aː + ʋ a n n a,b aː + ʋ a n n a,1
+Dhivehi-five-1,Dhivehi,five,fas,f a s,f a s,1
+Dhivehi-ninetyfive-1,Dhivehi,ninetyfive,fansayānavai,f a n s a + j aː + n a ʋ a i,f a n s a + j aː n a ʋ a i,0
+Dhivehi-seventyfour-1,Dhivehi,seventyfour,saurahat̊tari,s a u r a + h a t̊ t a r i,s a u r a + h a t̊ t a r i,1
+Dhivehi-sixtyone-1,Dhivehi,sixtyone,ekāhaṭṭī,e k aː + h a ʈ ʈ i,e k aː + h a ʈ ʈ i,1
+Finnish-ten-1,Finnish,ten,kymːenen,k y mː e n + e n,k y mː e n + e n,1
+Finnish-eightyone-1,Finnish,eightyone,kɑhdeksɑnkymːentæyksi,k ɑ h d e k s ɑ n + k y mː e n + t æ + y k s i,k ɑ h d e k s ɑ n + k y mː e n + t æ + y k s i,1
+Finnish-fortyfour-1,Finnish,fortyfour,neljækymːentæneljæ,n e l j æ + k y mː e n + t æ + n e l j æ,n e l j æ + k y mː e n + t æ + n e l j æ,1
+Finnish-eightythree-1,Finnish,eightythree,kɑhdeksɑnkymːentækolme,k ɑ h d e k s ɑ n + k y mː e n + t æ + k o l m e,k ɑ h d e k s ɑ n + k y mː e n + t æ + k o l m e,1
+Finnish-four-1,Finnish,four,neljæ,n e l j æ,n e l j æ,1
+Finnish-seventy-1,Finnish,seventy,seitsemænkymːentæ,s ei t s e m æ n + k y mː e n + t æ,s ei t s e m æ n + k y mː e n + t æ,1
+Finnish-sixtyone-1,Finnish,sixtyone,kuːsikymːentæyksi,k uː s i + k y mː e n + t æ + y k s i,k uː s i + k y mː e n + t æ + y k s i,1
+Finnish-one-1,Finnish,one,yksi,y k s i,y k s i,1
+Finnish-eightyfive-1,Finnish,eightyfive,kɑhdeksɑnkymːentæʋiːsi,k ɑ h d e k s ɑ n + k y mː e n + t æ + ʋ iː s i,k ɑ h d e k s ɑ n + k y mː e n + t æ + ʋ iː s i,1
+Finnish-thirtyseven-1,Finnish,thirtyseven,kolmekymːentæseitsemæn,k o l m e + k y mː e n + t æ + s ei t s e m æ n,k o l m e + k y mː e n + t æ + s ei t s e m æ n,1
+Finnish-twentytwo-1,Finnish,twentytwo,kɑksikymːentækɑksi,k ɑ k s i + k y mː e n + t æ + k ɑ k s i,k ɑ k s i + k y mː e n + t æ + k ɑ k s i,1
+Finnish-ninetythree-1,Finnish,ninetythree,yhdeksænkymːentækolme,y h d e k s æ n + k y mː e n + t æ + k o l m e,y h d e k s æ n + k y mː e n + t æ + k o l m e,1
+French-twentyfour-1,French,twentyfour,vɛ̃tkatʁ,v ɛ̃ t + k a t ʁ,v ɛ̃ t + k a t ʁ,1
+French-fortyfive-1,French,fortyfive,kaʁɑ̃tsɛ̃k,k a ʁ + ɑ̃ t + s ɛ̃ k,k a ʁ + ɑ̃ t + s ɛ̃ k,1
+French-twentyseven-1,French,twentyseven,vɛ̃tsɛt,v ɛ̃ t + s ɛ t,v ɛ̃ t + s ɛ t,1
+French-eighteen-1,French,eighteen,dizɥit,d i z + ɥ i t,d i z + ɥ i t,1
+French-twentytwo-1,French,twentytwo,vɛ̃dø,v ɛ̃ t + d ø,v ɛ̃ t + d ø,1
+French-fortyseven-1,French,fortyseven,kaʁɑ̃tsɛt,k a ʁ + ɑ̃ t + s ɛ t,k a ʁ + ɑ̃ t + s ɛ t,1
+French-seventyone-1,French,seventyone,swasɑ̃tɔ̃z,s wa s + ɑ̃ t + ɔ̃ z,s wa s + ɑ̃ t + ɔ̃ z,1
+Geez-three-1,Geez,three,ʃælæstu,ʃ æ l æ s t u,ʃ æ l æ s + t + u,0
+Geez-eightytwo-2,Geez,eightytwo,sæmanjawækɨlʔeti,s æ m a n j a + w æ + k ɨ l ʔ e t i,s æ m a n j + a + w æ + k ɨ l ʔ e t + i,0
+Geez-fifty-1,Geez,fifty,xæmsa,x æ m s a,x æ m s + a,0
+Geez-ninetyseven-2,Geez,ninetyseven,tæsʕawæsæbʕu,t æ s ʕ a + w æ + s æ b ʕ u,t æ s ʕ + a + w æ + s æ b ʕ u,0
+Geez-nineteen-2,Geez,nineteen,ʕæʃruwætɨsʕu,ʕ æ ʃ r w æ + t ɨ s ʕ u,ʕ æ ʃ r + w æ + t ɨ s ʕ u,0
+Geez-fortytwo-2,Geez,fortytwo,ʔærbɨʕawækɨlʔeti,ʔ æ r b ɨ ʕ a + w æ + k ɨ l ʔ e t i,ʔ æ r b ɨ ʕ + a + w æ + k ɨ l ʔ e t + i,0
+Geez-seventyfour-2,Geez,seventyfour,sæbʕawæʔærbaʕ,s æ b ʕ a + w æ + ʔ æ r b a ʕ,s æ b ʕ + a + w æ + ʔ æ r b a ʕ,0
+Geez-ninetyone-1,Geez,ninetyone,tæsʕawæʔæħædu,t æ s ʕ a + w æ + ʔ æ ħ æ d u,t æ s ʕ + a + w æ + ʔ æ ħ æ d + u,0
+Geez-thirtytwo-1,Geez,thirtytwo,ʃælasawækɨlʔetu,ʃ æ l a s a + w æ + k ɨ l ʔ e t u,ʃ æ l a s + a + w æ + k ɨ l ʔ e t + u,0
+Geez-fortysix-1,Geez,fortysix,ʔærbɨʕawæsɨdɨstu,ʔ æ r b ɨ ʕ a + w æ + s ɨ d ɨ s + t u,ʔ æ r b ɨ ʕ + a + w æ + s ɨ d ɨ s + t + u,0
+Geez-ninetytwo-2,Geez,ninetytwo,tæsʕawækɨlʔeti,t æ s ʕ a + w æ + k ɨ l ʔ e t i,t æ s ʕ + a + w æ + k ɨ l ʔ e t + i,0
+Geez-fiftysix-1,Geez,fiftysix,xæmsawæsɨdɨstu,x æ m s a + w æ + s ɨ d ɨ s t u,x æ m s + a + w æ + s ɨ d ɨ s + t + u,0
+Geez-one-2,Geez,one,ʔæħætti,ʔ æ ħ æ t t i,ʔ æ ħ æ t + t + i,0
+Geez-thirtyfour-1,Geez,thirtyfour,ʃælasawæʔærbaʕtu,ʃ æ l a s a + w æ + ʔ æ r b a ʕ t u,ʃ æ l a s + a + w æ + ʔ æ r b a ʕ + t + u,0
+Geez-fiftytwo-2,Geez,fiftytwo,xæmsawækɨlʔeti,x æ m s a + w æ + k ɨ l ʔ e t i,x æ m s + a + w æ + k ɨ l ʔ e t + i,0
+Geez-fiftynine-2,Geez,fiftynine,xæmsawætɨsʕu,x æ m s a + w æ + t ɨ s ʕ u,x æ m s + a + w æ + t ɨ s ʕ u,0
+Geez-seventyseven-2,Geez,seventyseven,sæbʕawæsæbʕu,s æ b ʕ a + w æ + s æ b ʕ u,s æ b ʕ + a + w æ + s æ b ʕ u,0
+Geez-fiftyeight-2,Geez,fiftyeight,xæmsawæsæmani,x æ m s a + w æ + s æ m a n i,x æ m s + a + w æ + s æ m a n i,0
+Geez-twelve-2,Geez,twelve,ʕæʃruwækɨlʔeti,ʕ æ ʃ r + w æ + k ɨ l ʔ e t i,ʕ æ ʃ r + w æ + k ɨ l ʔ e t + i,0
+Georgian-fortyfive-1,Georgian,fortyfive,or-m-oc-da-xut-i,o ɾ + m + o tsʰ + d a + χ u tʰ + i,o ɾ + m + o tsʰ + d a + χ u tʰ + i,1
+Georgian-fiftyeight-1,Georgian,fiftyeight,or-m-oc-da-t-vra-met’-i,o ɾ + m + o tsʰ + d a + tʰ + ʷɾ a + m e tʼ + i,o ɾ + m + o tsʰ + d a + tʰ + ʷɾ a + m e tʼ + i,1
+Georgian-eightyeight-1,Georgian,eightyeight,otx-m-oc-da-rva,o tʰ χ + m + o tsʰ + d a + ɾʷ a,o tʰ χ + m + o tsʰ + d a + ɾʷ a,1
+Georgian-thirtythree-1,Georgian,thirtythree,oc-da-t-sam-met’-i,o tsʰ + d a + t + s a + m e tʼ + i,o tsʰ + d a + t + s a + m e tʼ + i,1
+Georgian-fiftythree-1,Georgian,fiftythree,or-m-oc-da-t-sam-met’-i,o ɾ + m + o tsʰ + d a + tsʰ + a + m e tʼ + i,o ɾ + m + o tsʰ + d a + tsʰ + a + m e tʼ + i,1
+Georgian-eighteen-1,Georgian,eighteen,t-vra-met’-i,tʰ + ʷɾ a + m e tʼ + i,tʰ + ʷɾ a + m e tʼ + i,1
+Georgian-fiftyseven-1,Georgian,fiftyseven,or-m-oc-da-t-švid-met’-i,o ɾ + m + o tsʰ + d a + tʃʰʷ + i d + m e tʼ + i,o ɾ + m + o tsʰ + d a + tʃʰʷ + i d + m e tʼ + i,1
+Georgian-nine-1,Georgian,nine,cxra,tsʰ χ ɾ a,tsʰ χ ɾ a,1
+Georgian-twentynine-1,Georgian,twentynine,oc-da-cxra,o tsʰ + d a + tsʰ χ ɾ a,o tsʰ + d a + tsʰ χ ɾ a,1
+Georgian-thirtyseven-1,Georgian,thirtyseven,oc-da-t-švid-met’-i,o tsʰ + d a + tʃʰʷ + i d + m e tʼ + i,o tsʰ + d a + tʃʰʷ + i d + m e tʼ + i,1
+Georgian-four-1,Georgian,four,otx-i,o tʰ χ + i,o tʰ χ + i,1
+Georgian-seventy-1,Georgian,seventy,sam-oc-da-at-i,s a m + o tsʰ + d a + a tʰ + i,s a m + o tsʰ + d a + a tʰ + i,1
+Georgian-six-1,Georgian,six,ekvs-i,e kʰʷ s + i,e kʰʷ s + i,1
+Georgian-forty-1,Georgian,forty,or-m-oc-i,o ɾ + m + o tsʰ + i,o ɾ + m + o tsʰ + i,1
+Georgian-fiftyfive-1,Georgian,fiftyfive,or-m-oc-da-t-xut-met’-i,o ɾ + m + o tsʰ + d a + tʰ + χ u tʰ + m e tʼ + i,o ɾ + m + o tsʰ + d a + tʰ + χ u tʰ + m e tʼ + i,1
+German-fiftyeight-1,German,fiftyeight,achtundfünfzig,a x t + ʊ n + f ʏ n f + ts ɪ ç,a x t + ʊ n + f ʏ n f + ts ɪ ç,1
+German-sixtysix-1,German,sixtysix,sechsundsechzig,z ɛ k s + ʊ n + z ɛ ç + ts ɪ ç,z ɛ k s + ʊ n + z ɛ ç + ts ɪ ç,1
+German-thirtysix-1,German,thirtysix,sechsunddreißig,z ɛ k s + ʊ n + d r aɪ + s ɪ ç,z ɛ k s + ʊ n + d r aɪ + s ɪ ç,1
+German-seventy-1,German,seventy,siebzig,z iː b + ts ɪ ç,z iː b + ts ɪ ç,1
+German-seventynine-1,German,seventynine,neunundsiebzig,n oɪ n + ʊ n + z iː b + ts ɪ ç,n oɪ n + ʊ n + z iː b + ts ɪ ç,1
+German-seventyfour-1,German,seventyfour,vierundsiebzig,f iː r + ʊ n + z iː b + ts ɪ ç,f iː r + ʊ n + z iː b + ts ɪ ç,1
+German-thirtytwo-1,German,thirtytwo,zweiunddreißig,ts v aɪ + ʊ n + d r aɪ + s ɪ ç,ts v aɪ + ʊ n + d r aɪ + s ɪ ç,1
+German-eightyone-1,German,eightyone,einundachtzig,aɪ n + ʊ n + a x + ts ɪ ç,aɪ n + ʊ n + a x + ts ɪ ç,1
+Hungarian-seventysix-1,Hungarian,seventysix,hɛtvɛnhɒt,h ɛ t + v ɛ n + h ɒ t,h ɛ t + v ɛ n + h ɒ t,1
+Hungarian-eightyone-1,Hungarian,eightyone,ɲoltsvɒnɛɟː,ɲ o l ts + v ɒ n + ɛ ɟː,ɲ o l ts + v ɒ n + ɛ ɟː,1
+Hungarian-thirtynine-1,Hungarian,thirtynine,hɒrmintskilɛnts,h ɒ r m + i n ts + k i l ɛ n ts,h ɒ r m + i n ts + k i l ɛ n ts,1
+Hungarian-sixtyfive-1,Hungarian,sixtyfive,hɒtvɒnøt,h ɒ t + v ɒ n + ø t,h ɒ t + v ɒ n + ø t,1
+Hungarian-fortynine-1,Hungarian,fortynine,nɛɟvɛŋkilɛnts,n ɛ ɟ + v ɛ ŋ + k i l ɛ n ts,n ɛ ɟ + v ɛ ŋ + k i l ɛ n ts,1
+Hungarian-twentythree-1,Hungarian,twentythree,husonhaːrom,h u s + o n + h aː r o m,h u s + o n + h aː r o m,1
+Hungarian-twenty-1,Hungarian,twenty,huːs,h uː s,h uː s,1
+Hungarian-ninetynine-1,Hungarian,ninetynine,kilɛntsvɛŋkilɛnts,k i l ɛ n ts + v ɛ ŋ + k i l ɛ n ts,k i l ɛ n ts + v ɛ ŋ + k i l ɛ n ts,1
+Hungarian-seven-1,Hungarian,seven,heːt,h eː t,h eː t,1
+Hungarian-four-1,Hungarian,four,neːɟ,n eː ɟ,n eː ɟ,1
+Hungarian-ninetythree-1,Hungarian,ninetythree,kilɛntsvɛnhaːrom,k i l ɛ n ts + v ɛ n + h aː r o m,k i l ɛ n ts + v ɛ n + h aː r o m,1
+Iraqw-fortyeight-1,Iraqw,fortyeight,mibeeri tsiyáhh nee dakáat,m i b e e r i + ʦ’ i y á ħ + n e e + d a k á a t,m i b e e r i + ʦ’ i y á ħ + n e e + d a k á a t,1
+Iraqw-twentyone-1,Iraqw,twentyone,mibeeri tsár nee wak,m i b e e r i + ʦ’ á r + n e e + w a k,m i b e e r i + ʦ’ á r + n e e + w a k,1
+Iraqw-fortytwo-1,Iraqw,fortytwo,mibeeri tsiyáhh nee tsár,m i b e e r i + ʦ’ i y á ħ + n e e + ʦ’ á r,m i b e e r i + ʦ’ i y á ħ + n e e + ʦ’ á r,1
+Iraqw-fiftyeight-1,Iraqw,fiftyeight,mibeeri koo’án nee dakáat,m i b e e r i + k o o ʔ á n + n e e + d a k á a t,m i b e e r i + k o o ʔ á n + n e e + d a k á a t,1
+Iraqw-ninetytwo-1,Iraqw,ninetytwo,mibeeri gwaléel nee tsár,m i b e e r i + gʷ a l é e l + n e e + ʦ’ á r,m i b e e r i + gʷ a l é e l + n e e + ʦ’ á r,1
+Iraqw-five-1,Iraqw,five,koo’án,k o o ʔ á n,k o o ʔ á n,1
+Iraqw-ninety-1,Iraqw,ninety,mibeeri gwaléel,m i b e e r i + gʷ a l é e l,m i b e e r i + gʷ a l é e l,1
+Irish-thirtysix-1,Irish,thirtysix,tʲɾʲiːxəʃeː,tʲ ɾʲ iː x + ə + ʃ eː,tʲ ɾʲ iː x + ə + ʃ eː,1
+Irish-seven-1,Irish,seven,ʃaxt̪ˠ,ʃ a x t̪ˠ,ʃ a x t̪ˠ,1
+Irish-fortyfive-1,Irish,fortyfive,d̪ˠaçəd̪ˠəkuːɟ,d̪ˠ a + ç ə + d̪ˠ ə + k uː ɟ,d̪ˠ a + ç ə + d̪ˠ + ə + k uː ɟ,0
+Irish-fortyone-2,Irish,fortyone,cahɾˠəxəheːnˠ,c a h ɾˠ ə x + ə + h eː nˠ,c a h ɾˠ ə x + ə + h eː nˠ,1
+Irish-sixtynine-1,Irish,sixtynine,ʃaskən̪ˠiː,ʃ a s k + ə + n̪ˠ iː,ʃ a s k + ə + n̪ˠ iː,1
+Irish-fortyseven-1,Irish,fortyseven,d̪ˠaçəd̪ˠəʃaxt̪ˠ,d̪ˠ a + ç ə + d̪ˠ ə + ʃ a x t̪ˠ,d̪ˠ a + ç ə + d̪ˠ + ə + ʃ a x t̪ˠ,0
+Irish-sixtyeight-1,Irish,sixtyeight,ʃaskəhɔxt̪ˠ,ʃ a s k + ə + h ɔ x t̪ˠ,ʃ a s k + ə + h ɔ x t̪ˠ,1
+Irish-twentysix-1,Irish,twentysix,fʲɪçəʃeː,fʲ ɪ ç + ə + ʃ eː,fʲ ɪ ç + ə + ʃ eː,1
+Irish-fifteen-1,Irish,fifteen,kuːɟdʲeːg,k uː ɟ + dʲ eː g,k uː ɟ + dʲ eː g,1
+Italian-sixtyseven-1,Italian,sixtyseven,ses:antaset:e,s e sː + a n t a + s e tː e,s e sː + a n t a + s e tː e,1
+Italian-ninetyfive-1,Italian,ninetyfive,novantat͡ʃinkwe,n o v + a n t a + t͡ʃ i n k we,n o v + a n t a + t͡ʃ i n k we,1
+Italian-five-1,Italian,five,t͡ʃinkwe,t͡ʃ i n k we,t͡ʃ i n k we,1
+Italian-twenty-1,Italian,twenty,venti,v e n t i,v e n t i,1
+Kalasha-seventytwo-1,Kalasha,seventytwo,trebišižedažedú,t r e + b i ʃ i + ʒ e + d a + ʒ e + d u a,t r e + b i ʃ i + ʒ e + d a + ʒ e + d u + a,0
+Kalasha-ten-1,Kalasha,ten,daš,d a ʃ,d a ʃ,1
+Kalasha-ninetysix-1,Kalasha,ninetysix,čawbišižedažeṣó,ʧ a u + b i ʃ i + ʒ e + d a + ʒ e + ʂ o,ʧ a u + b i ʃ i + ʒ e + d a + ʒ e + ʂ o,1
+Kalasha-sixtythree-1,Kalasha,sixtythree,trebišižetré,t r e + b i ʃ i + ʒ e + t r e,t r e + b i ʃ i + ʒ e + t r e,1
+Kalasha-fiftyone-1,Kalasha,fiftyone,dubišižedažeéga,d u + b i ʃ i + ʒ e + d a + ʒ e + e g a,d u + b i ʃ i + ʒ e + d a + ʒ e + e g + a,1
+Kalasha-eightytwo-1,Kalasha,eightytwo,čawbišižedú,ʧ a u + b i ʃ i + ʒ e + d u,ʧ a u + b i ʃ i + ʒ e + d u,1
+Kalasha-seven-1,Kalasha,seven,sat,s a t,s a t,1
+Kalasha-thirtynine-1,Kalasha,thirtynine,bišižedašenó,b i ʃ i + ʒ e + d a ʃ + e + n o,b i ʃ i + ʒ e + d a ʃ + e + n o,1
+Kumzari-thirteen-1,Kumzari,thirteen,sēẓda,s eː zˠ + d a,s eː zˠ + d a,1
+Kumzari-eightyfive-1,Kumzari,eightyfive,aštad u panj,a ʃ t a d + u + p a n ʤ,a ʃ t a d + u + p a n ʤ,1
+Kumzari-ninetyfive-1,Kumzari,ninetyfive,nōwud u panj,n oː w u d + u + p a n ʤ,n oː w u d + u + p a n ʤ,1
+Kumzari-twelve-1,Kumzari,twelve,dwāẓda,d w aː zˠ + d a,d w aː zˠ + d a,1
+Kumzari-nine-1,Kumzari,nine,nā,n aː,n aː,1
+Kumzari-eightyseven-1,Kumzari,eightyseven,aštad u aft,a ʃ t a d + u + a f t,a ʃ t a d + u + a f t,1
+Kumzari-two-1,Kumzari,two,dō,d oː,d oː,1
+Kumzari-twentyone-1,Kumzari,twentyone,yakbīs,j a k + b iː s,j a k + b iː s,1
+Kumzari-fiftyfive-1,Kumzari,fiftyfive,murr u panj,m u r r + u + p a n ʤ,m u r r + u + p a n ʤ,1
+Kumzari-thirtyfour-1,Kumzari,thirtyfour,čārsī,ʧ aː r + s iː,ʧ aː r + s iː,1
+Lamani-sixtynine-1,Lamani,sixtynine,saaT an naw,s aː ʈ + a n + n a ʊ,s aː ʈ + a n + n a ʊ,1
+Lamani-fourteen-1,Lamani,fourteen,cawda,ʧ a ʊ + d a,ʧ a ʊ + d a,1
+Lamani-twentyseven-1,Lamani,twentyseven,vis an saat,v i s + a n + s aː t,v i s + a n + s aː t,1
+Lamani-fortyeight-1,Lamani,fortyeight,caaLis an aaT,ʧ aː ɭ i s + a n + aː ʈ,ʧ aː ɭ i s + a n + aː ʈ,1
+Lamani-eighty-1,Lamani,eighty,aỹsi,a ɪ̃ s i,a ɪ̃ s i,1
+Latin-sixtyeight-1,Latin,sixtyeight,dʊodeːsɛptʊaːɡɪntaː,d ʊ ɔ + d eː + s ɛ p t + ʊ aː + g ɪ n t aː,d ʊ ɔ + d eː + s ɛ p t ʊ + aː + g ɪ n t aː,0
+Latin-one-1,Latin,one,uːnʊs,uː n ʊ s,uː n + ʊ s,0
+Latin-three-1,Latin,three,treːs,t r eː s,t r eː s,1
+Latin-seventeen-1,Latin,seventeen,sɛptɛndɛkɪ̃,s ɛ p t ɛ n + d ɛ k ɪ̃,s ɛ p t ɛ n + d ɛ k ɪ̃,1
+Latin-two-1,Latin,two,dʊɔ,d ʊ ɔ,d ʊ ɔ,1
+Latin-thirtytwo-1,Latin,thirtytwo,triːɡɪntaː_dʊɔ,t r iː + g ɪ n t aː + d ʊ ɔ,t r iː + g ɪ n t aː + d ʊ ɔ,1
+Latin-thirtynine-1,Latin,thirtynine,ʊndeːkʷadraːɡɪntaː,ʊ n + d eː + kʷ a d r aː + g ɪ n t aː,ʊ n + d eː + kʷ a d r + aː + g ɪ n t aː,0
+Latin-eightyeight-1,Latin,eightyeight,dʊodeːnoːnaːɡɪntaː,d ʊ ɔ + d eː + n oː n aː + g ɪ n t aː,d ʊ ɔ + d eː + n oː n + aː + g ɪ n t aː,0
+Latin-ninetysix-1,Latin,ninetysix,noːnaːɡɪntaː_sɛks,n oː n aː + g ɪ n t aː + s ɛ k s,n oː n + aː + g ɪ n t aː + s ɛ k s,0
+Latin-sixtyfive-1,Latin,sixtyfive,sɛksaːɡɪntaː_kʷiːŋkʷɛ,s ɛ k s aː + g ɪ n t aː + kʷ iː ŋ kʷ ɛ,s ɛ k s + aː + g ɪ n t aː + kʷ iː ŋ kʷ ɛ,0
+Lishana_Deni-two-1,Lishana_Deni,two,tre,t r e,t r e,1
+Lishana_Deni-fortyfour-1,Lishana_Deni,fortyfour,ʔarbiʔuʔarba,ʔ a r b + i + ʔ u + ʔ a r b a,ʔ a r b + i + ʔ u + ʔ a r b a,1
+Lishana_Deni-ninety-1,Lishana_Deni,ninety,ʔəɕˤʔi,ʔ ə ɕˤ ʔ + i,ʔ ə ɕˤ ʔ + i,1
+Lishana_Deni-thirteen-1,Lishana_Deni,thirteen,təltaʔəssar,t ə l t a + ʔ ə s s a r,t ə l t a + ʔ ə s s a r,1
+Lishana_Deni-eighty-1,Lishana_Deni,eighty,tˤmˤani,tˤ mˤ a n + i,tˤ mˤ a n + i,1
+Lishana_Deni-eighteen-1,Lishana_Deni,eighteen,tˤmˤaneʔəssar,tˤ mˤ a n e + ʔ ə s s a r,tˤ mˤ a n e + ʔ ə s s a r,1
+Lishana_Deni-seventeen-1,Lishana_Deni,seventeen,ʃuwaʔəssar,ʃ u w a + ʔ ə s s a r,ʃ u w a + ʔ ə s s a r,1
+Lishana_Deni-ninetytwo-1,Lishana_Deni,ninetytwo,ʔəɕˤʔiʔutre,ʔ ə ɕˤ ʔ + i + ʔ u + t r e,ʔ ə ɕˤ ʔ + i + ʔ u + t r e,1
+Lishana_Deni-thirtysix-1,Lishana_Deni,thirtysix,tˤlaːθiʔuʔəʃta,tˤ l aː θ + i + ʔ u + ʔ ə ʃ t a,tˤ l aː θ + i + ʔ u + ʔ ə ʃ t a,1
+Lishana_Deni-fortyfive-1,Lishana_Deni,fortyfive,ʔarbiʔuχamʃa,ʔ a r b + i + ʔ u + χ a m ʃ a,ʔ a r b + i + ʔ u + χ a m ʃ a,1
+Lishana_Deni-ninetyone-1,Lishana_Deni,ninetyone,ʔəɕˤʔiʔuχa,ʔ ə ɕˤ ʔ + i + ʔ u + χ a,ʔ ə ɕˤ ʔ + i + ʔ u + χ a,1
+Lishana_Deni-eightynine-1,Lishana_Deni,eightynine,tˤmˤaniʔuʔəɕˤʔa,tˤ mˤ a n + i + ʔ u + ʔ ə ɕˤ ʔ a,tˤ mˤ a n + i + ʔ u + ʔ ə ɕˤ ʔ a,1
+Maltese-fiftythree-1,Maltese,fiftythree,tliːtɐ u hɐmsiːn,t l iː t ɐ + u + h ɐ m s + iː n,t l iː t ɐ + u + h ɐ m s + iː n,1
+Maltese-ninetyseven-1,Maltese,ninetyseven,sɛbɐ u dɪsɛjn,s ɛ b ɐ + u + d ɪ s + iː n,s ɛ b ɐ + u + d ɪ s + iː n,1
+Maltese-eightyfive-1,Maltese,eightyfive,hɐmsɐ u tmɛniːn,h ɐ m s ɐ + u + t m ɛ n + iː n,h ɐ m s ɐ + u + t m ɛ n + iː n,1
+Maltese-eighteen-1,Maltese,eighteen,tmɪntɐːʃ,t m ɪ n t + ɐː ʃ,t m ɪ n t + ɐː ʃ,1
+Maltese-eightythree-1,Maltese,eightythree,tliːtɐ u tmɛniːn,t l iː t ɐ + u + t m ɛ n + iː n,t l iː t ɐ + u + t m ɛ n + iː n,1
+Maltese-seventythree-1,Maltese,seventythree,tliːtɐ u sɛbɛjn,t l iː t ɐ + u + s ɛ b + ɛ j n,t l iː t ɐ + u + s ɛ b + ɛ j n,1
+Mandarin-fiftytwo-1,Mandarin,fiftytwo,wǔ shí èr,u ²¹³ + ʂ ʅ ³⁵ + ɚ ⁵¹,u ²¹³ + ʂ ʅ ³⁵ + ɚ ⁵¹,1
+Mandarin-eightyseven-1,Mandarin,eightyseven,bā shí qī,p a ⁵⁵ + ʂ ʅ ³⁵ + tɕʰ i ⁵⁵,p a ⁵⁵ + ʂ ʅ ³⁵ + tɕʰ i ⁵⁵,1
+Mandarin-eightythree-1,Mandarin,eightythree,bā shí sān,p a ⁵⁵ + ʂ ʅ ³⁵ + s a n ⁵⁵,p a ⁵⁵ + ʂ ʅ ³⁵ + s a n ⁵⁵,1
+Mandarin-ninetyfour-1,Mandarin,ninetyfour,jiǔ shí sì,tɕ j ou̯ ²¹³ + ʂ ʅ ³⁵ + s ɿ ⁵¹,tɕ j ou̯ ²¹³ + ʂ ʅ ³⁵ + s ɿ ⁵¹,1
+Mandarin-fifteen-1,Mandarin,fifteen,shí wǔ,ʂ ʅ ³⁵ + u ²¹³,ʂ ʅ ³⁵ + u ²¹³,1
+Mandarin-sixty-1,Mandarin,sixty,liù shí,l j ou̯ ⁵¹ + ʂ ʅ ³⁵,l j ou̯ ⁵¹ + ʂ ʅ ³⁵,1
+Mandarin-ninetyfive-1,Mandarin,ninetyfive,jiǔ shí wǔ,tɕ j ou̯ ²¹³ + ʂ ʅ ³⁵ + u ²¹³,tɕ j ou̯ ²¹³ + ʂ ʅ ³⁵ + u ²¹³,1
+Mandarin-fiftynine-1,Mandarin,fiftynine,wǔ shí jiǔ,u ²¹³ + ʂ ʅ ³⁵ + tɕ j ou̯ ²¹³,u ²¹³ + ʂ ʅ ³⁵ + tɕ j ou̯ ²¹³,1
+Mandarin-twelve-1,Mandarin,twelve,shí èr,ʂ ʅ ³⁵ + ɚ ⁵¹,ʂ ʅ ³⁵ + ɚ ⁵¹,1
+Mandarin-fiftyeight-1,Mandarin,fiftyeight,wǔ shí bā,u ²¹³ + ʂ ʅ ³⁵ + p a ⁵⁵,u ²¹³ + ʂ ʅ ³⁵ + p a ⁵⁵,1
+Mapudungun-eightyeight-1,Mapudungun,eightyeight,puʐa maʐi puʐa,p u ʐ a + m a ʐ i + p u ʐ a,p u ʐ a + m a ʐ i + p u ʐ a,1
+Mapudungun-twentyfive-1,Mapudungun,twentyfive,epu maʐi keʧu,e p u + m a ʐ i + k e ʧ u,e p u + m a ʐ i + k e ʧ u,1
+Mapudungun-thirtyfour-1,Mapudungun,thirtyfour,kɘla maʐi meli,k ɘ l a + m a ʐ i + m e l i,k ɘ l a + m a ʐ i + m e l i,1
+Mapudungun-thirtyone-1,Mapudungun,thirtyone,kɘla maʐi kiɲe,k ɘ l a + m a ʐ i + k i ɲ e,k ɘ l a + m a ʐ i + k i ɲ e,1
+Mapudungun-seventyone-1,Mapudungun,seventyone,ʐeɣle maʐi kiɲe,ʐ e ɣ l e + m a ʐ i + k i ɲ e,ʐ e ɣ l e + m a ʐ i + k i ɲ e,1
+Mapudungun-twelve-1,Mapudungun,twelve,maʐi epu,m a ʐ i + e p u,m a ʐ i + e p u,1
+Mapudungun-fiftysix-1,Mapudungun,fiftysix,keʧu maʐi kaju,k e ʧ u + m a ʐ i + k a j u,k e ʧ u + m a ʐ i + k a j u,1
+Modern_Hebrew-fortytwo-2,Modern_Hebrew,fortytwo,aʁbaimuʃtajim,a ʁ b a + i m + u + ʃ t + a j i m,a ʁ b a + i m + u + ʃ + t + a j i m,0
+Modern_Hebrew-fortythree-2,Modern_Hebrew,fortythree,aʁbaimveʃaloʃ,a ʁ b a + i m + v e + ʃ a l o ʃ,a ʁ b a + i m + v e + ʃ a l o ʃ,1
+Modern_Hebrew-fiftyone-1,Modern_Hebrew,fiftyone,χamiʃimveeχad,χ a m i ʃ + i m + v e + e χ a d,χ a m i ʃ + i m + v e + e χ a d,1
+Modern_Hebrew-ninetyseven-1,Modern_Hebrew,ninetyseven,tiʃimveʃiva,t i ʃ + i m + v e + ʃ i v a,t i ʃ + i m + v e + ʃ i v + a,0
+Modern_Hebrew-sixtyfour-1,Modern_Hebrew,sixtyfour,ʃiʃimveaʁbaa,ʃ i ʃ + i m + v e + a ʁ b a a,ʃ i ʃ + i m + v e + a ʁ b a + a,0
+Modern_Hebrew-thirtythree-2,Modern_Hebrew,thirtythree,ʃloʃimveʃaloʃ,ʃ l o ʃ + i m + v e + ʃ a l o ʃ,ʃ l o ʃ + i m + v e + ʃ a l o ʃ,1
+Modern_Hebrew-fourteen-1,Modern_Hebrew,fourteen,aʁbaaasaʁ,a ʁ b a + a + a s a ʁ,a ʁ b a + a + a s a ʁ,1
+Modern_Hebrew-seven-2,Modern_Hebrew,seven,ʃeva,ʃ e v a,ʃ e v a,1
+Modern_Hebrew-sixtytwo-2,Modern_Hebrew,sixtytwo,ʃiʃimuʃtajim,ʃ i ʃ + i m + u + ʃ t + a j i m,ʃ i ʃ + i m + u + ʃ + t + a j i m,0
+Modern_Hebrew-ten-2,Modern_Hebrew,ten,eseʁ,e s e ʁ,e s e ʁ,1
+Modern_Hebrew-ninety-1,Modern_Hebrew,ninety,tiʃim,t i ʃ + i m,t i ʃ + i m,1
+Modern_Hebrew-sixteen-1,Modern_Hebrew,sixteen,ʃiʃaasaʁ,ʃ i ʃ + a + a s a ʁ,ʃ i ʃ + a + a s a ʁ,1
+Modern_Hebrew-seventyeight-1,Modern_Hebrew,seventyeight,ʃivimuʃmona,ʃ i v + i m + u + ʃ m o n a,ʃ i v + i m + u + ʃ m o n + a,0
+Modern_Hebrew-eightythree-1,Modern_Hebrew,eightythree,ʃmonimuʃloʃa,ʃ m o n + i m + u + ʃ l o ʃ a,ʃ m o n + i m + u + ʃ l o ʃ + a,0
+Modern_Hebrew-seventyfour-1,Modern_Hebrew,seventyfour,ʃivimveaʁbaa,ʃ i v + i m + v e + a ʁ b a a,ʃ i v + i m + v e + a ʁ b a + a,0
+Modern_Hebrew-thirtyfour-2,Modern_Hebrew,thirtyfour,ʃloʃimveaʁba,ʃ l o ʃ + i m + v e + a ʁ b a,ʃ l o ʃ + i m + v e + a ʁ b a,1
+Modern_Hebrew-ninetyfour-2,Modern_Hebrew,ninetyfour,tiʃimveaʁba,t i ʃ + i m + v e + a ʁ b a,t i ʃ + i m + v e + a ʁ b a,1
+Paraguayan_Guarani-fifty-1,Paraguayan_Guarani,fifty,popa,p o + p a,p o + p a,1
+Paraguayan_Guarani-seven-1,Paraguayan_Guarani,seven,pokõi,p o + k õ i,p o + k õ i,1
+Paraguayan_Guarani-eightythree-1,Paraguayan_Guarani,eightythree,poapɨpa ᵐbohapɨ,p o + a p ɨ + p a + ᵐb o h a p ɨ,p o + a p ɨ + p a + ᵐb o h a p ɨ,1
+Paraguayan_Guarani-four-1,Paraguayan_Guarani,four,iɾuⁿdɨ,i ɾ u ⁿd ɨ,i ɾ u ⁿd ɨ,1
+Paraguayan_Guarani-thirty-1,Paraguayan_Guarani,thirty,ᵐbohapɨpa,ᵐb o h a p ɨ + p a,ᵐb o h a p ɨ + p a,1
+Paraguayan_Guarani-sixtyseven-1,Paraguayan_Guarani,sixtyseven,poteĩpa pokõi,p o + t e ĩ + p a + p o + k õ i,p o + t e ĩ + p a + p o + k õ i,1
+Paraguayan_Guarani-thirteen-1,Paraguayan_Guarani,thirteen,paʔapɨ,p a + ʔ a p ɨ,p a + ʔ + a p ɨ,0
+Paraguayan_Guarani-seventynine-1,Paraguayan_Guarani,seventynine,pokõipa poɾuⁿdɨ,p o + k õ i + p a + p o + ɾ u ⁿd ɨ,p o + k õ i + p a + p o + ɾ u ⁿd ɨ,1
+Paraguayan_Guarani-fortysix-1,Paraguayan_Guarani,fortysix,iɾuⁿdɨpa poteĩ,i ɾ u ⁿd ɨ + p a + p o + t e ĩ,i ɾ u ⁿd ɨ + p a + p o + t e ĩ,1
+Paraguayan_Guarani-fourteen-1,Paraguayan_Guarani,fourteen,paɾuⁿdɨ,p a + ɾ u ⁿd ɨ,p a + ɾ u ⁿd ɨ,1
+Paraguayan_Guarani-ninetythree-1,Paraguayan_Guarani,ninetythree,poɾuⁿdɨpa ᵐbohapɨ,p o + ɾ u ⁿd ɨ + p a + ᵐb o h a p ɨ,p o + ɾ u ⁿd ɨ + p a + ᵐb o h a p ɨ,1
+Paraguayan_Guarani-seventeen-1,Paraguayan_Guarani,seventeen,papokõi,p a + p o + k õ i,p a + p o + k õ i,1
+Pashto-eightythree-1,Pashto,eightythree,dre-atyā,d r e + a t j aː,d r e + a t j aː,1
+Pashto-seventy-1,Pashto,seventy,awyā,a w j aː,a w j aː,1
+Pashto-sixtytwo-1,Pashto,sixtytwo,dwa-špetə,d w a + ʃ p e t ə,d w a + ʃ p e t ə,1
+Pashto-seventythree-1,Pashto,seventythree,dre-awyā,d r e + a w j aː,d r e + a w j aː,1
+Pashto-twentynine-1,Pashto,twentynine,nəhə-wiš,n ə h ə + w i ʃ,n ə h ə + w i ʃ,1
+Pashto-twelve-1,Pashto,twelve,dwə́-las,d w ə + l a s,d w ə + l a s,1
+Pashto-sixtyfive-1,Pashto,sixtyfive,pinzə́-špetə,p i n z ə + ʃ p e t ə,p i n z ə + ʃ p e t ə,1
+Pashto-fortyone-1,Pashto,fortyone,yaw-ʦalwext,j a w + ʦ a l w e x t,j a w + ʦ a l w e x t,1
+Pashto-fiftyfour-1,Pashto,fiftyfour,ʦəlór-panʣos,ʦ ə l o r + p a n ʣ o s,ʦ ə l o r + p a n ʣ o s,1
+Pashto-fortytwo-1,Pashto,fortytwo,dwa-ʦalwext,d w a + ʦ a l w e x t,d w a + ʦ a l w e x t,1
+Pashto-seventytwo-1,Pashto,seventytwo,dwa-awyā,d w a + a w j aː,d w a + a w j aː,1
+Plains_Cree-eight-1,Plains_Cree,eight,ayēnānēw,a j eː n aː n eː w,a j eː n aː n eː w,1
+Plains_Cree-ninetytwo-1,Plains_Cree,ninetytwo,kēkā-mitātahtomitanaw ayiwāk nīso,k eː k aː + m i t aː t a h t + u m i t a n a w + a j i w aː k + n iː s u,k eː k aː + m i t aː t a h t + u m i t a n a w + a j i w aː k + n iː s u,1
+Plains_Cree-ninety-2,Plains_Cree,ninety,kēkā-mitātahtomitanaw,k eː k aː + m i t aː t a h t + u m i t a n a w,k eː k aː + m i t aː t a h t + u m i t a n a w,1
+Plains_Cree-fiftyfour-1,Plains_Cree,fiftyfour,niyānanomitanaw ayiwāk nēwo,n i j aː n a n + u m i t a n a w + a j i w aː k + n eː w u,n i j aː n a n + u m i t a n a w + a j i w aː k + n eː w u,1
+Plains_Cree-seventy-2,Plains_Cree,seventy,tēpakohpomitanaw,t eː p a k u h p + u- m i t a n a w,t eː p a k u h p + u- m i t a n a w,1
+Plains_Cree-seventytwo-1,Plains_Cree,seventytwo,tēpakohpomitanaw ayiwāk nīso,t eː p a k u h p + u- m i t a n a w + a j i w aː k + n iː s u,t eː p a k u h p + u- m i t a n a w + a j i w aː k + n iː s u,1
+Plains_Cree-twentyone-1,Plains_Cree,twentyone,nīsitanaw ayiwāk pēyak,n iː s i t a n a w + a j i w aː k + p eː j a k,n iː s i t a n a w + a j i w aː k + p eː j a k,1
+Plains_Cree-fifty-2,Plains_Cree,fifty,niyānanomitanaw,n i j aː n a n + u m i t a n a w,n i j aː n a n + u m i t a n a w,1
+Plains_Cree-twentynine-1,Plains_Cree,twentynine,kēkāc-nistomitanaw,k eː k aː ts + n i s t u + m i t a n a w,k eː k aː ts + n i s t u + m i t a n a w,1
+Russian-fortyeight-1,Russian,fortyeight,sorok+vosʲemʲ,s o r o k + v o sʲ e mʲ,s o r o k + v o sʲ e mʲ,1
+Russian-fortytwo-1,Russian,fortytwo,sorok+dva,s o r o k + d v a,s o r o k + d v a,1
+Russian-seventyseven-1,Russian,seventyseven,sʲemʲdʲesʲatʲ+sʲemʲ,sʲ e mʲ + dʲ e sʲ a tʲ + sʲ e mʲ,sʲ e mʲ + dʲ e sʲ a tʲ + sʲ e mʲ,1
+Russian-twentysix-1,Russian,twentysix,dvadtsatʲ+ʃʲestʲ,d v a + d ts a tʲ + ʃʲ e s tʲ,d v a + d ts a tʲ + ʃʲ e s tʲ,1
+Russian-eightyseven-1,Russian,eightyseven,vosʲemʲdʲesʲatʲ+sʲemʲ,v o sʲ e mʲ + dʲ e sʲ a tʲ + sʲ e mʲ,v o sʲ e mʲ + dʲ e sʲ a tʲ + sʲ e mʲ,1
+Russian-ninetythree-1,Russian,ninetythree,dʲevʲanosto+trʲi,dʲ e vʲ a + n o + s t o + t rʲ i,dʲ e vʲ a + n o + s t o + t rʲ i,1
+Russian-eightyeight-1,Russian,eightyeight,vosʲemʲdʲesʲatʲ+vosʲemʲ,v o sʲ e mʲ + dʲ e sʲ a tʲ + v o sʲ e mʲ,v o sʲ e mʲ + dʲ e sʲ a tʲ + v o sʲ e mʲ,1
+Russian-twentytwo-1,Russian,twentytwo,dvadtsatʲ+dva,d v a + d ts a tʲ + d v a,d v a + d ts a tʲ + d v a,1
+Russian-eightynine-1,Russian,eightynine,vosʲemʲdʲesʲatʲ+dʲevʲatʲ,v o sʲ e mʲ + dʲ e sʲ a tʲ + dʲ e vʲ a tʲ,v o sʲ e mʲ + dʲ e sʲ a tʲ + dʲ e vʲ a tʲ,1
+Russian-twentynine-1,Russian,twentynine,dvadtsatʲ+dʲevʲatʲ,d v a + d ts a tʲ + dʲ e vʲ a tʲ,d v a + d ts a tʲ + dʲ e vʲ a tʲ,1
+Sanskrit-ninetyfive-1,Sanskrit,ninetyfive,pañcanavati,p a ɲ tʃ a + n a v a + t i,p a ɲ tʃ a + n a v a + t i,1
+Sanskrit-twentynine-3,Sanskrit,twentynine,navaviṁśati,n a v a + v ĩ + ʃ a t i,n a v a + v ĩ + ʃ a t i,1
+Sanskrit-thirtynine-1,Sanskrit,thirtynine,ekānnacatvāriṁśat,e k aː n + n a + tʃ a t v aː r ĩ + ʃ a t,e k aː n + n a + tʃ a t v aː r ĩ + ʃ a t,1
+Sanskrit-nineteen-3,Sanskrit,nineteen,navadaśa,n a v a + d a ʃ a,n a v a + d a ʃ a,1
+Sanskrit-sixtyone-1,Sanskrit,sixtyone,ekaṣaṣṭi,e k a + ʂ a ʂ + t i,e k a + ʂ a ʂ + t i,1
+Sanskrit-sixtythree-1,Sanskrit,sixtythree,trayahṣaṣṭi,t r a j a h + ʂ a ʂ + t i,t r a j a h + ʂ a ʂ + t i,1
+Sanskrit-one-1,Sanskrit,one,eka,e k a,e k a,1
+Sanskrit-sixtynine-1,Sanskrit,sixtynine,navaṣaṣṭi,n a v a + ʂ a ʂ + t i,n a v a + ʂ a ʂ + t i,1
+Sanskrit-nine-1,Sanskrit,nine,nava,n a v a,n a v a,1
+Sanskrit-eightythree-1,Sanskrit,eightythree,tryaśīti,t r a j a + a ʂ iː + t i,t r a j a + a ʂ iː + t i,1
+Sanskrit-seventyeight-1,Sanskrit,seventyeight,aṣṭasaptati,a ʂ ʈ a + s a p t a + t i,a ʂ ʈ a + s a p t a + t i,1
+Sanskrit-thirtynine-2,Sanskrit,thirtynine,ekonacatvāriṁśat,e k o + n a + tʃ a t v aː r ĩ + ʃ a t,e k o + n a + tʃ a t v aː r ĩ + ʃ a t,1
+Sanskrit-fortyeight-1,Sanskrit,fortyeight,aṣṭācatvāriṁśat,a ʂ ʈ aː + tʃ a t v aː r ĩ + ʃ a t i,a ʂ ʈ aː + tʃ a t v aː r ĩ + ʃ a t i,1
+Sanskrit-thirtyfive-1,Sanskrit,thirtyfive,pañcatriṁśat,p a ɲ tʃ a + t r ĩ + ʃ a t,p a ɲ tʃ a + t r ĩ + ʃ a t,1
+Sanskrit-sixtyfour-1,Sanskrit,sixtyfour,catuhṣaṣṭi,tʃ a t u h + ʂ a ʂ + t i,tʃ a t u h + ʂ a ʂ + t i,1
+Sanskrit-twentytwo-1,Sanskrit,twentytwo,dvāviṁśati,d v aː + v ĩ + ʃ a t i,d v aː + v ĩ + ʃ a t i,1
+Sanskrit-eightyfour-1,Sanskrit,eightyfour,caturaśīti,tʃ a t u r + a ʂ iː + t i,tʃ a t u r + a ʂ iː + t i,1
+Sanskrit-fortytwo-1,Sanskrit,fortytwo,dvācatvāriṁśat,d v aː + tʃ a t v aː r ĩ + ʃ a t i,d v aː + tʃ a t v aː r ĩ + ʃ a t i,1
+Sanskrit-nineteen-2,Sanskrit,nineteen,ekonaviṁśati,e k o + n a + v ĩ + ʃ a t i,e k o + n a + v ĩ + ʃ a t i,1
+Scottish_Gaelic-ten-1,Scottish_Gaelic,ten,dʲeç,dʲ e ç,dʲ e ç,1
+Scottish_Gaelic-fortyfour-2,Scottish_Gaelic,fortyfour,kʲɛrədsəkʲehɪrʲ,kʲ ɛ r ə d + s + ə kʲ e h ɪ rʲ,kʲ ɛ r ə d + s + ə + kʲ e h ɪ rʲ,0
+Scottish_Gaelic-ninetythree-2,Scottish_Gaelic,ninetythree,n̪ˠɯːxədsətriː,n̪ˠ ɯː x ə d + s ə + t r iː,n̪ˠ ɯː x ə d + s + ə + t r iː,0
+Scottish_Gaelic-fortyone-2,Scottish_Gaelic,fortyone,kʲɛrədsəhɯ̃ːn,kʲ ɛ r ə d + s ə + h ɯ̃ː n,kʲ ɛ r ə d + s + ə + h ɯ̃ː n,0
+Scottish_Gaelic-fifty-3,Scottish_Gaelic,fifty,kɯːgəd,k ɯː g ə d,k ɯː g ə d,1
+Scottish_Gaelic-seventyone-1,Scottish_Gaelic,seventyone,triːfiçədsəhɯ̃ːndʲiəg,t r iː + f i ç ə d + s ə + h ɯ̃ː n + dʲ i ə g,t r iː + f i ç ə d + s + ə + h ɯ̃ː n + dʲ i ə g,0
+Scottish_Gaelic-four-1,Scottish_Gaelic,four,kʲehɪrʲ,kʲ e h ɪ rʲ,kʲ e h ɪ rʲ,1
+Scottish_Gaelic-seventyfour-2,Scottish_Gaelic,seventyfour,ʃɛxgədsəkʲehɪrʲ,ʃ ɛ x g ə d + s ə + kʲ e h ɪ rʲ,ʃ ɛ x g ə d + s + ə + kʲ e h ɪ rʲ,0
+Scottish_Gaelic-fiftyfive-3,Scottish_Gaelic,fiftyfive,kɯːgədsəkoːgʲ,k ɯː g ə d + s ə + k oː gʲ,k ɯː g ə d + s + ə + k oː gʲ,0
+Scottish_Gaelic-fiftyone-2,Scottish_Gaelic,fiftyone,lʲeçədsəhɯ̃ːn,lʲ e + ç ə d + s ə + h ɯ̃ː n,lʲ e + ç ə d + s + ə + h ɯ̃ː n,0
+Scottish_Gaelic-ninetysix-2,Scottish_Gaelic,ninetysix,n̪ˠɯːxədsəʃia,n̪ˠ ɯː x ə d + s ə + ʃ i a,n̪ˠ ɯː x ə d + s + ə + ʃ i a,0
+Scottish_Gaelic-seventy-2,Scottish_Gaelic,seventy,ʃɛxgəd,ʃ ɛ x g ə d,ʃ ɛ x g ə d,1
+Scottish_Gaelic-sixtyfive-2,Scottish_Gaelic,sixtyfive,ʃesgədsəkoːgʲ,ʃ e s g ə d + s ə + k oː gʲ,ʃ e s g ə d + s + ə + k oː gʲ,0
+Scottish_Gaelic-twentythree-2,Scottish_Gaelic,twentythree,triːɛrʲiçəd,t r iː + ɛ rʲ + i ç ə d,t r iː + ɛ rʲ + i ç ə d,1
+Scottish_Gaelic-thirtyeight-1,Scottish_Gaelic,thirtyeight,triçədsəhɔxg,t r i ç ə d + s ə + h ɔ x g,t r i ç ə d + s + ə + h ɔ x g,0
+Sebat_Bet_Gurage-eightynine-1,Sebat_Bet_Gurage,eightynine,sɨmraʒətʼə,s ɨ m r + a + ʒ ə tʼ ə,s ɨ m r + a + ʒ ə tʼ ə,1
+Sebat_Bet_Gurage-fiftytwo-1,Sebat_Bet_Gurage,fiftytwo,amsaxʷet,a m s + a + xʷ e t,a m s + a + xʷ e t,1
+Sebat_Bet_Gurage-eightyfour-1,Sebat_Bet_Gurage,eightyfour,sɨmraarβət,s ɨ m r + a + a r β ə t,s ɨ m r + a + a r β ə t,1
+Sebat_Bet_Gurage-sixtyseven-1,Sebat_Bet_Gurage,sixtyseven,sɨdsasəβat,s ɨ d s + a + s ə β a t,s ɨ d s + a + s ə β a t,1
+Sebat_Bet_Gurage-three-1,Sebat_Bet_Gurage,three,sost,s o s t,s o s t,1
+Sebat_Bet_Gurage-twenty-1,Sebat_Bet_Gurage,twenty,xʷɨya,xʷ ɨ y + a,xʷ ɨ y + a,1
+Sebat_Bet_Gurage-twentysix-1,Sebat_Bet_Gurage,twentysix,xʷɨyasɨddɨst,xʷ ɨ y + a + s ɨ d d ɨ s t,xʷ ɨ y + a + s ɨ d d ɨ s t,1
+Sebat_Bet_Gurage-ninety-1,Sebat_Bet_Gurage,ninety,zɨtʼəra,z ɨ tʼ ə r + a,z ɨ tʼ ə r + a,1
+Shanghainese-fiftyseven-1,Shanghainese,fiftyseven,ɦŋ̍²³zəʔ¹²tɕ'iɪʔ³⁴,ɦ ŋ̍ ²³ + z ə ʔ ¹² + tɕʰ iɪ ʔ ³⁴,ɦ ŋ̍ ²³ + z ə ʔ ¹² + tɕʰ iɪ ʔ ³⁴,1
+Shanghainese-seventyeight-1,Shanghainese,seventyeight,tɕ'iɪʔ³⁴zəʔ¹²pᴀʔ⁵⁵,tɕʰ iɪ ʔ ³⁴ + z ə ʔ ¹² + p ᴀ ʔ ⁵⁵,tɕʰ iɪ ʔ ³⁴ + z ə ʔ ¹² + p ᴀ ʔ ⁵⁵,1
+Shanghainese-seventyone-1,Shanghainese,seventyone,tɕ'iɪʔ³⁴zəʔ¹²iɪʔ⁵⁵,tɕʰ iɪ ʔ ³⁴ + z ə ʔ ¹² + iɪ ʔ ⁵⁵,tɕʰ iɪ ʔ ³⁴ + z ə ʔ ¹² + iɪ ʔ ⁵⁵,1
+Shanghainese-ninetyfour-1,Shanghainese,ninetyfour,tɕiɤ³⁴zəʔ¹²sɿ³⁴,tɕ iɤ ³⁴ + z ə ʔ ¹² + s ɿ ³⁴,tɕ iɤ ³⁴ + z ə ʔ ¹² + s ɿ ³⁴,1
+Shanghainese-seventyfour-1,Shanghainese,seventyfour,tɕ'iɪʔ³⁴zəʔ¹²sɿ³⁴,tɕʰ iɪ ʔ ³⁴ + z ə ʔ ¹² + s ɿ ³⁴,tɕʰ iɪ ʔ ³⁴ + z ə ʔ ¹² + s ɿ ³⁴,1
+Shanghainese-six-1,Shanghainese,six,loʔ¹²,l o ʔ ¹²,l o ʔ ¹²,1
+Shanghainese-sixtyseven-1,Shanghainese,sixtyseven,loʔ¹²zəʔ¹²tɕ'iɪʔ³⁴,l o ʔ ¹² + z ə ʔ ¹² + tɕʰ iɪ ʔ ³⁴,l o ʔ ¹² + z ə ʔ ¹² + tɕʰ iɪ ʔ ³⁴,1
+Shanghainese-sixtyeight-1,Shanghainese,sixtyeight,loʔ¹²zəʔ¹²pᴀʔ⁵⁵,l o ʔ ¹² + z ə ʔ ¹² + p ᴀ ʔ ⁵⁵,l o ʔ ¹² + z ə ʔ ¹² + p ᴀ ʔ ⁵⁵,1
+Shanghainese-eightyeight-1,Shanghainese,eightyeight,pᴀʔ⁵⁵zəʔ¹²pᴀʔ⁵⁵,p ᴀ ʔ ⁵⁵ + z ə ʔ ¹² + p ᴀ ʔ ⁵⁵,p ᴀ ʔ ⁵⁵ + z ə ʔ ¹² + p ᴀ ʔ ⁵⁵,1
+Shanghainese-thirtythree-1,Shanghainese,thirtythree,sᴇ⁵³zəʔ¹²sᴇ⁵³,s e̞ ⁵³ + z ə ʔ ¹² + s e̞ ⁵³,s e̞ ⁵³ + z ə ʔ ¹² + s e̞ ⁵³,1
+Shanghainese-ninetyone-1,Shanghainese,ninetyone,tɕiɤ³⁴zəʔ¹²iɪʔ⁵⁵,tɕ iɤ ³⁴ + z ə ʔ ¹² + iɪ ʔ ⁵⁵,tɕ iɤ ³⁴ + z ə ʔ ¹² + iɪ ʔ ⁵⁵,1
+Shanghainese-thirtynine-1,Shanghainese,thirtynine,sᴇ⁵³zəʔ¹²tɕiɤ³⁴,s e̞ ⁵³ + z ə ʔ ¹² + tɕ iɤ ³⁴,s e̞ ⁵³ + z ə ʔ ¹² + tɕ iɤ ³⁴,1
+Siraiki-fortyseven-1,Siraiki,fortyseven,satālī,s a + t aː l iː,s a + t aː l iː,1
+Siraiki-ninetytwo-1,Siraiki,ninetytwo,ɓiānve,ɓ i + aː n ʋ e,ɓ i + aː n ʋ e,1
+Siraiki-fiftyeight-1,Siraiki,fiftyeight,aṭhvanjhā,a ʈʰ + ʋ a n ʤʰ aː,a ʈʰ + ʋ a n ʤʰ aː,1
+Siraiki-fourteen-1,Siraiki,fourteen,cauɗhā̃,ʧ a u + ɗ h ãː,ʧ a u + ɗ h ãː,1
+Siraiki-sixtythree-1,Siraiki,sixtythree,treṭh,t r e + ʈʰ,t r e + ʈʰ,1
+Siraiki-sixtyone-1,Siraiki,sixtyone,ikæṭh,i k + æ ʈʰ,i k + æ ʈʰ,1
+Siraiki-seventyseven-1,Siraiki,seventyseven,satattar,s a t + a t t a r,s a t + a t t a r,1
+Siraiki-ninetyfive-1,Siraiki,ninetyfive,panjānve,p a n ʤ + aː n ʋ e,p a n ʤ + aː n ʋ e,1
+Siraiki-twentyfive-1,Siraiki,twentyfive,panjvī,p a n ʤʰ + ʋ iː,p a n ʤʰ + ʋ iː,1
+Siraiki-seventyeight-1,Siraiki,seventyeight,aṭhattar,a ʈʰ + a t t a r,a ʈʰ + a t t a r,1
+Siraiki-twentyeight-1,Siraiki,twentyeight,aṭhāvī,a ʈʰ aː + ʋ iː,a ʈʰ aː + ʋ iː,1
+Spanish-fifteen-1,Spanish,fifteen,kinθe,k i n θ e,k i n θ e,1
+Spanish-fortyfour-1,Spanish,fortyfour,kwaɾentaikwatɾo,k wa ɾ + e n t a + i + k wa t ɾ o,k wa ɾ + e n t a + i + k wa t ɾ o,1
+Spanish-sixty-1,Spanish,sixty,sesenta,s e s + e n t a,s e s + e n t a,1
+Spanish-fiftyseven-1,Spanish,fiftyseven,θiŋkwentaisjete,θ i ŋ k w + e n t a + i + s je t e,θ i ŋ k w + e n t a + i + s je t e,1
+Spanish-sixtyone-1,Spanish,sixtyone,sesentajuno,s e s + e n t a + j + u n o,s e s + e n t a + j + u n + o,0
+Spanish-eighteen-1,Spanish,eighteen,djeθiotʃo,d je θ + i + o tʃ o,d je θ + i + o tʃ o,1
+Spanish-fiftytwo-1,Spanish,fiftytwo,θiŋkwentaiðos,θ i ŋ k w + e n t a + i + ð o s,θ i ŋ k w + e n t a + i + ð o s,1
+Spanish-seventyeight-1,Spanish,seventyeight,setentajotʃo,s e t + e n t a + j + o tʃ o,s e t + e n t a + j + o tʃ o,1
+Standard_Arabic-eleven-2,Standard_Arabic,eleven,ʔiħdaː ʕaʃrata,ʔ i ħ d aː + ʕ a ʃ r + a t a,ʔ i ħ d + aː + ʕ a ʃ r + a t + a,0
+Standard_Arabic-thirteen-2,Standard_Arabic,thirteen,θalaːθa ʕaʃrata,θ a l aː θ a + ʕ a ʃ r + a t a,θ a l aː θ + a + ʕ a ʃ r + a t + a,0
+Standard_Arabic-twentyseven-1,Standard_Arabic,twentyseven,sabʕatun waʕiʃruːn,s a b ʕ + a t + u n + w a + ʕ i ʃ r + uː n,s a b ʕ + a t + u n + w a + ʕ i ʃ r + uː n,1
+Standard_Arabic-eightythree-2,Standard_Arabic,eightythree,θalaːθun waθamaːnuːn,θ a l aː θ + u n + w a + θ a m aː n + uː n,θ a l aː θ + u n + w a + θ a m aː n + uː n,1
+Standard_Arabic-four-2,Standard_Arabic,four,ʔarbaʕun,ʔ a r b a ʕ + u n,ʔ a r b a ʕ + u n,1
+Standard_Arabic-ninetyfive-2,Standard_Arabic,ninetyfive,xamsun watisʕuːn,x a m s + u n + w a + t i s ʕ + uː n,x a m s + u n + w a + t i s ʕ + uː n,1
+Standard_Arabic-two-1,Standard_Arabic,two,ʔiθnaːni,ʔ i θ n + aː n i,ʔ i θ n + aː n i,1
+Standard_Arabic-three-1,Standard_Arabic,three,θalaːθatun,θ a l aː θ + a t + u n,θ a l aː θ + a t + u n,1
+Standard_Arabic-fiftytwo-2,Standard_Arabic,fiftytwo,ʔiθnataːni waxamsuːn,ʔ i θ n + a t + aː n i + w a + x a m s + uː n,ʔ i θ n + a t + aː n i + w a + x a m s + uː n,1
+Standard_Arabic-fifty-1,Standard_Arabic,fifty,xamsuːn,x a m s + uː n,x a m s + uː n,1
+Standard_Arabic-seventyone-1,Standard_Arabic,seventyone,waːħidun wasabʕuːn,w aː ħ i d + u n + w a + s a b ʕ + uː n,w aː ħ i d + u n + w a + s a b ʕ + uː n,1
+Standard_Arabic-ninetythree-1,Standard_Arabic,ninetythree,θalaːθatun watisʕuːn,θ a l aː θ + a t + u n + w a + t i s ʕ + uː n,θ a l aː θ + a t + u n + w a + t i s ʕ + uː n,1
+Standard_Arabic-ninetyeight-2,Standard_Arabic,ninetyeight,θamaːnin watisʕuːn,θ a m aː n + i n + w a + t i s ʕ + uː n,θ a m aː n + i n + w a + t i s ʕ + uː n,1
+Standard_Arabic-sixtyfour-1,Standard_Arabic,sixtyfour,ʔarbaʕatun wasittuːn,ʔ a r b a ʕ + a t + u n + w a + s i t t + uː n,ʔ a r b a ʕ + a t + u n + w a + s i t t + uː n,1
+Standard_Arabic-eightyfive-1,Standard_Arabic,eightyfive,xamsatun waθamaːnuːn,x a m s + a t + u n + w a + θ a m aː n + uː n,x a m s + a t + u n + w a + θ a m aː n + uː n,1
+Standard_Arabic-fortyeight-1,Standard_Arabic,fortyeight,θamaːnijatun waʔarbaʕuːn,θ a m aː n i j + a t + u n + w a + ʔ a r b a ʕ + uː n,θ a m aː n i j + a t + u n + w a + ʔ a r b a ʕ + uː n,1
+Standard_Arabic-seventytwo-1,Standard_Arabic,seventytwo,ʔiθnaːni wasabʕuːn,ʔ i θ n + aː n i + w a + s a b ʕ + uː n,ʔ i θ n + aː n i + w a + s a b ʕ + uː n,1
+Standard_Arabic-thirtythree-2,Standard_Arabic,thirtythree,θalaːθun waθalaːθuːn,θ a l aː θ + u n + w a + θ a l aː θ + uː n,θ a l aː θ + u n + w a + θ a l aː θ + uː n,1
+Standard_Arabic-ninetyone-4,Standard_Arabic,ninetyone,ʔaħadaː watisʕuːn,ʔ i ħ d + aː + w a + t i s ʕ + uː n,ʔ i ħ d + aː + w a + t i s ʕ + uː n,1
+Standard_Arabic-twentyeight-2,Standard_Arabic,twentyeight,θamaːnin waʕiʃruːn,θ a m aː n + i n + w a + ʕ i ʃ r + uː n,θ a m aː n + i n + w a + ʕ i ʃ r + uː n,1
+Telugu-fourteen-1,Telugu,fourteen,pʌdnaːlugu,p ʌ d + n aː l u g u,p ʌ d + n aː l u g u,1
+Telugu-thirtyfour-1,Telugu,thirtyfour,mupːaɪ̯ naːlugu,m u + pː aɪ̯ + n aː l u g u,m u + pː aɪ̯ + n aː l u g u,1
+Tigre-seventynine-1,Tigre,seventynine,sabʕin wa-sɨʕ,s a b ʕ + i n + w a + s ɨ ʕ,s a b ʕ + i n + w a + s ɨ ʕ,1
+Tigre-fortytwo-1,Tigre,fortytwo,ʔarbɨʕin wa-kɨlʔot,ʔ a r b ɨ ʕ + i n + w a + k ɨ l ʔ o t,ʔ a r b ɨ ʕ + i n + w a + k ɨ l ʔ + o t,0
+Tigre-fourteen-1,Tigre,fourteen,ʕasɨr wa-ʔarbaʕ,ʕ a s ɨ r + w a + ʔ a r b a ʕ,ʕ a s ɨ r + w a + ʔ a r b a ʕ,1
+Tigre-fortytwo-2,Tigre,fortytwo,ʔarbɨʕin wa-kɨlʔe,ʔ a r b ɨ ʕ + i n + w a + k ɨ l ʔ e,ʔ a r b ɨ ʕ + i n + w a + k ɨ l ʔ e,1
+Tigre-thirtythree-1,Tigre,thirtythree,talatin wa-salas,t a l a t + i n + w a + s a l a s,t a l a t + i n + w a + s a l a s,1
+Tigre-seventyone-1,Tigre,seventyone,sabʕin wa-ʔoro,s a b ʕ + i n + w a + ʔ o r o,s a b ʕ + i n + w a + ʔ o r o,1
+Tigre-ninetysix-1,Tigre,ninetysix,tɨsʕin wa-sɨs,t ɨ s ʕ + i n + w a + s ɨ s,t ɨ s ʕ + i n + w a + s ɨ s,1
+Tigre-twentyone-1,Tigre,twentyone,ʕɨʃrin wa-ʔoro,ʕ ɨ ʃ r + i n + w a + ʔ o r o,ʕ ɨ ʃ r + i n + w a + ʔ o r o,1
+Tigre-twelve-2,Tigre,twelve,ʕasɨr wa-kɨlʔe,ʕ a s ɨ r + w a + k ɨ l ʔ e,ʕ a s ɨ r + w a + k ɨ l ʔ e,1
+Tigre-ninetythree-1,Tigre,ninetythree,tɨsʕin wa-salas,t ɨ s ʕ + i n + w a + s a l a s,t ɨ s ʕ + i n + w a + s a l a s,1
+Tigre-ninetynine-1,Tigre,ninetynine,tɨsʕin wa-sɨʕ,t ɨ s ʕ + i n + w a + s ɨ ʕ,t ɨ s ʕ + i n + w a + s ɨ ʕ,1
+Tigre-ninetyseven-1,Tigre,ninetyseven,tɨsʕin wa-sabɨʕ,t ɨ s ʕ + i n + w a + s a b ɨ ʕ,t ɨ s ʕ + i n + w a + s a b ɨ ʕ,1
+Tigre-thirtytwo-2,Tigre,thirtytwo,talatin wa-kɨlʔe,t a l a t + i n + w a + k ɨ l ʔ e,t a l a t + i n + w a + k ɨ l ʔ e,1
+Tigre-five-1,Tigre,five,ħamɨs,ħ a m ɨ s,ħ a m ɨ s,1
+Tigre-fortyfour-1,Tigre,fortyfour,ʔarbɨʕin wa-ʔarbaʕ,ʔ a r b ɨ ʕ + i n + w a + ʔ a r b a ʕ,ʔ a r b ɨ ʕ + i n + w a + ʔ a r b a ʕ,1
+Tommo_So-fiftyone-1,Tommo_So,fiftyone,pɛ́-ǹnɔ́ túru-go sígɛ́,p ɛ́ + ǹ n ɔ́ + t ú r u + g o + s í g ɛ́,p ɛ́ + ǹ n ɔ́ + t ú r u + g o + s í g ɛ́,1
+Tommo_So-eleven-1,Tommo_So,eleven,pɛ́lu-go túru-go sígɛ́,p ɛ́ l u + g o + t ú r u + g o + s í g ɛ́,p ɛ́ l u + g o + t ú r u + g o + s í g ɛ́,1
+Tommo_So-fiftynine-1,Tommo_So,fiftynine,pɛ́-ǹnɔ́ túwwɔ́(-go) sígɛ́,p ɛ́ + ǹ n ɔ́ + t ú w w ɔ́ + g o + s í g ɛ́,p ɛ́ + ǹ n ɔ́ + t ú w w ɔ́ + g o + s í g ɛ́,1
+Tommo_So-thirtyfour-1,Tommo_So,thirtyfour,pɛ̀-tààndù nǎy(-go) sígɛ́,p ɛ̀ + t à à n d ù + n ǎ j + g o + s í g ɛ́,p ɛ̀ + t à à n d ù + n ǎ j + g o + s í g ɛ́,1
+Tommo_So-sixtyfive-1,Tommo_So,sixtyfive,pɛ̀lù kúlóy ǹnɔ́(-go) sígɛ́,p ɛ̀ l ù + k ú l ó j + ǹ n ɔ́ + g o + s í g ɛ́,p ɛ̀ l ù + k ú l ó j + ǹ n ɔ́ + g o + s í g ɛ́,1
+Tommo_So-sixty-1,Tommo_So,sixty,pɛ̀lù kúlóy,p ɛ̀ l ù + k ú l ó j,p ɛ̀ l ù + k ú l ó j,1
+Tommo_So-fortysix-1,Tommo_So,fortysix,pɛ́-nǎy kúlóy(-go) sígɛ́,p ɛ́ + n ǎ j + k ú l ó j + g o + s í g ɛ́,p ɛ́ + n ǎ j + k ú l ó j + g o + s í g ɛ́,1
+Tommo_So-ninety-1,Tommo_So,ninety,pɛ̀-túwwɔ́,p ɛ̀ + t ú w w ɔ́,p ɛ̀ + t ú w w ɔ́,1
+Uyghur-fifty-1,Uyghur,fifty,ʔɑtmiʃ ,ʔ ɑ t m i ʃ,ʔ ɑ t m i ʃ,1
+Uyghur-eighty-1,Uyghur,eighty,toqsɑn ,t o q s ɑ n,t o q s ɑ n,1
+Uyghur-sixtyone-1,Uyghur,sixtyone,jɛtmiʃ bir,j ɛ t m i ʃ + b i r,j ɛ t m i ʃ + b i r,1
+Uyghur-fiftyone-1,Uyghur,fiftyone,ʔɑtmiʃ bir,ʔ ɑ t m i ʃ + b i r,ʔ ɑ t m i ʃ + b i r,1
+Uyghur-ninety-1,Uyghur,ninety,jyz ,j y z,j y z,1
+Uyghur-twentyseven-1,Uyghur,twentyseven,jiɡirmɛ jɛttɛ,j i ɡ i r m ɛ + j ɛ t t ɛ,j i ɡ i r m ɛ + j ɛ t t ɛ,1
+Uyghur-eightyeight-1,Uyghur,eightyeight,toqsɑn sɛkkiz,t o q s ɑ n + s ɛ k k i z,t o q s ɑ n + s ɛ k k i z,1
+Uyghur-sixty-1,Uyghur,sixty,jɛtmiʃ ,j ɛ t m i ʃ,j ɛ t m i ʃ,1
+Wayuu-eightythree-1,Wayuu,eightythree,mekiːsaɺɨ ʃikiː apɨnɨinmɨin,m e k iː s a ɺ ɨ + ʃ i k iː + a p ɨ n ɨ i n + m ɨ i n,m e k iː s a ɺ ɨ + ʃ i k iː + a p ɨ n ɨ i n + m ɨ i n,1
+Wayuu-seventynine-1,Wayuu,seventynine,akaraiʃi ʃikiː mekieʔetasaɺɨmɨin,a k a r a i ʃ i + ʃ i k iː + m e k i e ʔ e t a s a ɺ ɨ + m ɨ i n,a k a r a i ʃ i + ʃ i k iː + m e k i e ʔ e t a s a ɺ ɨ + m ɨ i n,1
+Wayuu-fortynine-1,Wayuu,fortynine,pienʧi ʃikiː mekieʔetasaɺɨmɨin,p i e n ʧ i + ʃ i k iː + m e k i e ʔ e t a s a ɺ ɨ + m ɨ i n,p i e n ʧ i + ʃ i k iː + m e k i e ʔ e t a s a ɺ ɨ + m ɨ i n,1
+Wayuu-eightyeight-1,Wayuu,eightyeight,mekiːsaɺɨ ʃikiː mekiːsaɺɨmɨin,m e k iː s a ɺ ɨ + ʃ i k iː + m e k iː s a ɺ ɨ + m ɨ i n,m e k iː s a ɺ ɨ + ʃ i k iː + m e k iː s a ɺ ɨ + m ɨ i n,1
+Wayuu-ninetyfive-1,Wayuu,ninetyfive,mekieʔetasaɺɨ ʃikiː haʔraɺimɨin,m e k i e ʔ e t a s a ɺ ɨ + ʃ i k iː + h a ʔ r a ɺ i + m ɨ i n,m e k i e ʔ e t a s a ɺ ɨ + ʃ i k iː + h a ʔ r a ɺ i + m ɨ i n,1
+Wayuu-seventyseven-1,Wayuu,seventyseven,akaraiʃi ʃikiː akaraiʃimɨin,a k a r a i ʃ i + ʃ i k iː + a k a r a i ʃ i + m ɨ i n,a k a r a i ʃ i + ʃ i k iː + a k a r a i ʃ i + m ɨ i n,1
+Wayuu-fortythree-1,Wayuu,fortythree,pienʧi ʃikiː apɨnɨinmɨin,p i e n ʧ i + ʃ i k iː + a p ɨ n ɨ i n + m ɨ i n,p i e n ʧ i + ʃ i k iː + a p ɨ n ɨ i n + m ɨ i n,1
+Wayuu-six-1,Wayuu,six,aipirua,a i p i r u a,a i p i r u a,1
+Wayuu-seventeen-1,Wayuu,seventeen,poʔɺoː akaraiʃimɨin,p o ʔ ɺ oː + a k a r a i ʃ i + m ɨ i n,p o ʔ ɺ oː + a k a r a i ʃ i + m ɨ i n,1
+Wayuu-seventythree-1,Wayuu,seventythree,akaraiʃi ʃikiː apɨnɨinmɨin,a k a r a i ʃ i + ʃ i k iː + a p ɨ n ɨ i n + m ɨ i n,a k a r a i ʃ i + ʃ i k iː + a p ɨ n ɨ i n + m ɨ i n,1
+Wayuu-nineteen-1,Wayuu,nineteen,poʔɺoː mekieʔetasaɺɨmɨin,p o ʔ ɺ oː + m e k i e ʔ e t a s a ɺ ɨ + m ɨ i n,p o ʔ ɺ oː + m e k i e ʔ e t a s a ɺ ɨ + m ɨ i n,1
+Wayuu-seven-1,Wayuu,seven,akaraiʃi,a k a r a i ʃ i,a k a r a i ʃ i,1
+Wayuu-fiftytwo-1,Wayuu,fiftytwo,haʔrai ʃikiː piamamɨin,h a ʔ r a i + ʃ i k iː + p i a m a + m ɨ i n,h a ʔ r a i + ʃ i k iː + p i a m a + m ɨ i n,1
+Wayuu-ninetythree-1,Wayuu,ninetythree,mekieʔetasaɺɨ ʃikiː apɨnɨinmɨin,m e k i e ʔ e t a s a ɺ ɨ + ʃ i k iː + a p ɨ n ɨ i n + m ɨ i n,m e k i e ʔ e t a s a ɺ ɨ + ʃ i k iː + a p ɨ n ɨ i n + m ɨ i n,1
+Wayuu-eighteen-1,Wayuu,eighteen,poʔɺoː mekiːsaɺɨmɨin,p o ʔ ɺ oː + m e k iː s a ɺ ɨ + m ɨ i n,p o ʔ ɺ oː + m e k iː s a ɺ ɨ + m ɨ i n,1
+Wayuu-eight-1,Wayuu,eight,mekiːsaɺɨ,m e k iː s a ɺ ɨ,m e k iː s a ɺ ɨ,1
+Wolam-sixty-1,Wolam,sixty,au ajuk,au + a j u k,au + a j u k,1
+Wolam-eightyfive-1,Wolam,eightyfive,au pəti kə pəŋu,au + p ə t i + k ə + p ə ŋ u,au + p ə t i + k ə + p ə ŋ u,1
+Wolam-sixtyfour-1,Wolam,sixtyfour,au ajuk kə pəle,au + a j u k + k ə + p ə l e,au + a j u k + k ə + p ə l e,1
+Wolam-fiftynine-1,Wolam,fiftynine,au pəŋu kə ləkau,au + p ə ŋ u + k ə + l ə k au,au + p ə ŋ u + k ə + l ə k au,1
+Wolam-seventyfive-1,Wolam,seventyfive,au tʃiɲat kə pəŋu,au + tʃ i ɲ a t + k ə + p ə ŋ u,au + tʃ i ɲ a t + k ə + p ə ŋ u,1
+Wolam-thirteen-1,Wolam,thirteen,tʰe kə hameʔ,tʰ e + k ə + h a m e ʔ,tʰ e + k ə + h a m e ʔ,1
+Wolam-ninetyfour-1,Wolam,ninetyfour,au ləkau kə pəle,au + l ə k au + k ə + p ə l e,au + l ə k au + k ə + p ə l e,1
+Wolam-eightysix-1,Wolam,eightysix,au pəti kə ajuk,au + p ə t i + k ə + a j u k,au + p ə t i + k ə + a j u k,1
+Wolam-seventyeight-1,Wolam,seventyeight,au tʃiɲat kə pəti,au + tʃ i ɲ a t + k ə + p ə t i,au + tʃ i ɲ a t + k ə + p ə t i,1
+Wolam-fiftythree-1,Wolam,fiftythree,au pəŋu kə hameʔ,au + p ə ŋ u + k ə + h a m e ʔ,au + p ə ŋ u + k ə + h a m e ʔ,1
+Wolam-fifteen-1,Wolam,fifteen,tʰe kə pəŋu,tʰ e + k ə + p ə ŋ u,tʰ e + k ə + p ə ŋ u,1
+Yiddish-three-1,Yiddish,three,dʁaɪ,d ʁ aɪ,d ʁ aɪ,1
+Yiddish-eightyfive-1,Yiddish,eightyfive,fɪnfʊnaχtsɪk,f ɪ n f + ʊ n + a χ + ts ɪ k,f ɪ n f + ʊ n + a χ + ts ɪ k,1
+Yiddish-eightyfour-1,Yiddish,eightyfour,fɪʁʊnaχtsɪk,f ɪ ʁ + ʊ n + a χ + ts ɪ k,f ɪ ʁ + ʊ n + a χ + ts ɪ k,1
+Yiddish-thirtynine-1,Yiddish,thirtynine,naɪnʊndʁaɪsɪk,n aɪ n + ʊ n + d ʁ aɪ + s ɪ k,n aɪ n + ʊ n + d ʁ aɪ + s ɪ k,1
+Yiddish-fortyfive-1,Yiddish,fortyfive,fɪnfʊnfɛʁtsɪk,f ɪ n f + ʊ n + f ɛ ʁ + ts ɪ k,f ɪ n f + ʊ n + f ɛ ʁ + ts ɪ k,1
+Yiddish-fiftysix-1,Yiddish,fiftysix,zɛksʊnfʊftsɪk,z ɛ k s + ʊ n + f ʊ f + ts ɪ k,z ɛ k s + ʊ n + f ʊ f + ts ɪ k,1
+Yiddish-ninetyeight-1,Yiddish,ninetyeight,aχtʊnnaɪntsɪk,a χ t + ʊ n + n aɪ n + ts ɪ k,a χ t + ʊ n + n aɪ n + ts ɪ k,1
+Yiddish-ninety-1,Yiddish,ninety,naɪntsɪkaχtsɪk,n aɪ n + ts ɪ k,n aɪ n + ts ɪ k,1
+Yiddish-thirtythree-1,Yiddish,thirtythree,dʁaɪʊndʁaɪsɪk,d ʁ aɪ + ʊ n + d ʁ aɪ + s ɪ k,d ʁ aɪ + ʊ n + d ʁ aɪ + s ɪ k,1
